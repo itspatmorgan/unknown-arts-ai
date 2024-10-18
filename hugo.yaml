@@ -1,0 +1,56 @@
+baseURL: "https://ai.unknownarts.co"
+languageCode: "en-us"
+title: "Unknown Arts AI"
+theme: "hextra"
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Docs
+      pageRef: /docs
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Blog
+      pageRef: /blog
+      weight: 3
+    - name: Contact ↗
+      url: "https://itspatmorgan.com"
+      weight: 4
+    - name: Search
+      weight: 5
+      params:
+        type: search
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/itspatmorgan"
+      params:
+        icon: github
+    - name: Twitter
+      weight: 7
+      url: "https://twitter.com/itspatmorgan"
+      params:
+        icon: x-twitter
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  editURL:
+    enable: false
+    base: "https://github.com/itspatmorgan/ai.unknownarts.co/edit/main/content"
