@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/itspatmorgan/ai.unknownarts.co/edit/main/content"
+    base: "https://github.com/itspatmorgan/unknown-arts-ai/edit/main/content"
