@@ -13,39 +13,54 @@ markup:
   highlight:
     noClasses: false
 
+enableInlineShortcodes: true
+enableGitInfo: true
+
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Home
+      pageRef: /
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Documentation
+      pageRef: /docs/getting-started
       weight: 2
-    - name: Blog
+    - name: Daily Log
       pageRef: /blog
       weight: 3
-    - name: Contact ↗
-      url: "https://itspatmorgan.com"
-      weight: 4
     - name: Search
-      weight: 5
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 6
-      url: "https://github.com/itspatmorgan"
+      weight: 5
+      url: "https://github.com/itspatmorgan/unknown-arts-ai"
       params:
         icon: github
     - name: Twitter
-      weight: 7
+      weight: 6
       url: "https://twitter.com/itspatmorgan"
       params:
         icon: x-twitter
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: Unknown Arts Newsletter ↗
+      url: "https://www.unknownarts.co"
+      weight: 2
 
 params:
+  theme:
+    default: light
+    displayToggle: true
+
+  page:
+    width: wide
+
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: false
 
   footer:
     displayCopyright: false

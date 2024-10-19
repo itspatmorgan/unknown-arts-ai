@@ -3,16 +3,11 @@ title: 'Prompt Patterns'
 weight: 2
 ---
 
-This directory contains a collection of AI prompt patterns specifically tailored for creative professionals. Each file offers a detailed guide on using a specific pattern to enhance your interactions with AI, enabling you to automate tasks, refine ideas, and explore new creative approaches.
+This directory contains a collection of AI prompt patterns tailored to creative professionals. Each file offers guidance on using a specific pattern to enhance your interactions with AI, enabling you to automate tasks, refine ideas, and explore new creative approaches.
 
 ## Overview
 
 These patterns are based on recent research into AI prompt engineering, focusing on practical applications for modern creatives — writers, designers, marketers, entrepreneurs, etc.... By leveraging these patterns, you can bring more structure and creativity to your AI-powered projects.
-
-## How to Use
-
-- Each `.md` file in this directory provides a guide for an individual pattern.
-- The files contain front matter metadata for easy integration into platforms like Notion or Obsidian, along with in-depth descriptions, examples, and tips.
 
 ## Patterns Available
 
@@ -48,7 +43,3 @@ These patterns are based on recent research into AI prompt engineering, focusing
 
 This work is inspired by the academic research paper on AI prompt patterns:  
 [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
-
-## License
-
-This directory, like the rest of the repository, is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE). You are free to share and adapt the content as long as you provide appropriate attribution.

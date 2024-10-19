@@ -1,5 +1,6 @@
 ---
 title: 'Alternative Approaches'
+displayUpdatedDate: true
 ---
 
 ## Purpose
