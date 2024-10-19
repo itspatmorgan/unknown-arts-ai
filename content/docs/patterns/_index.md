@@ -1,13 +1,16 @@
 ---
 title: 'Prompt Patterns'
 weight: 2
+prev: resource-catalog
 ---
-
-This directory contains a collection of AI prompt patterns tailored to creative professionals. Each file offers guidance on using a specific pattern to enhance your interactions with AI, enabling you to automate tasks, refine ideas, and explore new creative approaches.
 
 ## Overview
 
-These patterns are based on recent research into AI prompt engineering, focusing on practical applications for modern creatives — writers, designers, marketers, entrepreneurs, etc.... By leveraging these patterns, you can bring more structure and creativity to your AI-powered projects.
+Prompt Patterns offers a curated collection of AI interaction strategies for creative professionals. 
+
+Based on recent prompt engineering research, these patterns provide practical guidance for writers, designers, marketers, entrepreneurs, and more to enhance their AI-powered projects. 
+
+By applying these techniques, you can automate tasks, refine ideas, and explore innovative approaches, bringing structure and creativity to your AI interactions.
 
 ## Patterns Available
 
@@ -41,5 +44,5 @@ These patterns are based on recent research into AI prompt engineering, focusing
 
 ## Sources
 
-This work is inspired by the academic research paper on AI prompt patterns:  
+This work is based on the academic research done by the team at Vanderbilt University:  
 [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)

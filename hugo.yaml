@@ -21,8 +21,8 @@ menu:
     - name: Home
       pageRef: /
       weight: 1
-    - name: Documentation
-      pageRef: /docs/getting-started
+    - name: Library
+      pageRef: /docs
       weight: 2
     - name: Daily Log
       pageRef: /blog
@@ -45,12 +45,13 @@ menu:
     - name: More
       params:
         type: separator
-      weight: 1
+      weight: 2
     - name: Unknown Arts Newsletter ↗
       url: "https://www.unknownarts.co"
-      weight: 2
+      weight: 3
 
 params:
+  displayUpdatedDate: true
   theme:
     default: light
     displayToggle: true

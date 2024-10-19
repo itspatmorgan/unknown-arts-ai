@@ -16,36 +16,21 @@ title: 'Tools'
 - [Hugging Face](https://huggingface.co/)
 - [Groq](https://www.groq.com/)
 
-### AI-Assisted Development
-- [Cursor](https://cursor.com/)
-- [Vercel SDK Playground](https://sdk.vercel.ai/playground)
-
----
-
 ## Development Tools
 
 ### Code Editors and IDEs
+- [Cursor](https://cursor.com/)
 - [VS Code](https://code.visualstudio.com/download)
 - [Jupyter Lab](https://jupyter.org)
+- [Replit](https://replit.com/)
 
 ### Version Control
 - [Github](https://github.com)
 
-### Online Development Environments
-- [Replit](https://replit.com/)
-
 ### Data Science and Machine Learning
 - [Anaconda](https://www.anaconda.com)
-
----
 
 ## Notebooks and Playgrounds
 
 - [Google Colab](https://colab.research.google.com/#scrollTo=GJBs_flRovLc)
-- [Notebook LM](https://notebooklm.google/)
-
----
-
-## Learning and Productivity Tools
-
-- [Anki](https://apps.ankiweb.net/)
+- [Vercel SDK Playground](https://sdk.vercel.ai/playground)

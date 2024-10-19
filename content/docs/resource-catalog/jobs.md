@@ -1,5 +1,5 @@
 ---
-title: 'AI Job References'
+title: 'Jobs'
 ---
 
 - [Content Manager at Meta](https://www.metacareers.com/jobs/902233335134239/)

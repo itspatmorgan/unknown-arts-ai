@@ -1,5 +1,5 @@
 ---
-title: 'AI Model Guides'
+title: 'Model Guides'
 ---
 
 ## OpenAI
