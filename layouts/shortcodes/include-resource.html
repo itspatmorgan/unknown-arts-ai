@@ -1,0 +1,6 @@
+{{ $content := readFile (.Get 0) }}
+{{ $lang := "markdown" }}
+{{ $filename := .Get 0 }}
+```{{ $lang }}
+{{ $content | safeHTML }}
+```

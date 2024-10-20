@@ -5,9 +5,10 @@ page:
   width: normal
 ---
 
-{{< cards >}}
+{{< cards cols=2 >}}
   {{< card link="docs/resource-catalog" title="Resource Catalog" icon="library" >}}
   {{< card link="docs/patterns" title="Patterns" icon="puzzle" >}}
+  {{< card link="docs/projects" title="Projects" icon="code" >}}
   {{< card link="blog" title="Daily Log" icon="calendar" >}}
 {{< /cards >}}
 
@@ -51,4 +52,4 @@ If you have suggestions, ideas, or improvements, feel free to contact me. I’m 
 
 ## 📄 License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to share and adapt the content as long as you provide appropriate attribution.
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the content as long as you provide appropriate attribution.

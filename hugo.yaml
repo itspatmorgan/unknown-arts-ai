@@ -24,20 +24,23 @@ menu:
     - name: Library
       pageRef: /docs
       weight: 2
+    - name: Projects
+      pageRef: /docs/projects
+      weight: 3
     - name: Daily Log
       pageRef: /blog
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/itspatmorgan/unknown-arts-ai"
       params:
         icon: github
     - name: Twitter
-      weight: 6
+      weight: 7
       url: "https://twitter.com/itspatmorgan"
       params:
         icon: x-twitter
@@ -52,6 +55,7 @@ menu:
 
 params:
   displayUpdatedDate: true
+
   theme:
     default: light
     displayToggle: true
@@ -64,9 +68,9 @@ params:
     displayLogo: false
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: false
 
   editURL:
     enable: false
-    base: "https://github.com/itspatmorgan/unknown-arts-ai/edit/main/content"
+    base: "https://github.com/itspatmorgan/unknown-arts-ai/main/content"
