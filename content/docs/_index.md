@@ -6,15 +6,16 @@ sidebar:
 weight: 10
 ---
 
-This documentation serves as a comprehensive guide to the Unknown Arts AI project, providing insights into AI technologies, prompt engineering, and creative applications of artificial intelligence.
+This library serves as a comprehensive guide to the Unknown Arts AI project, providing insights into AI technologies, prompt engineering, and creative applications of generative AI.
 
 ## Contents
 
 1. [Resource Catalog](/docs/resource-catalog)
    - A curated collection of articles, videos, courses, and tools related to AI and creative technology.
-
 2. [Prompt Patterns](/docs/patterns)
    - A collection of AI prompt patterns tailored for creative professionals, based on recent research in prompt engineering.
+3. [Projects](/docs/projects)
+   - AI projects I've created, including custom GPTs, Claude Projects, and more.
 
 ## Key Sections
 
