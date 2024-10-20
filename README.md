@@ -1,52 +1,43 @@
-# Unknown Arts: AI Learning Journey
-
-Welcome to the companion repository for the Unknown Arts newsletter! This repo documents my exploration into the world of Artificial Intelligence, with a focus on learning, experimentation, and sharing insights with the community.
+# Unknown Arts AI - Companion Website
 
 ## 📖 Overview
 
-This repository is a collection of my personal notes, experiments, and projects as I dive into AI. Expect a variety of content, including:
+Welcome to the companion website for the [Unknown Arts newsletter](https://www.unknownarts.co)! 
 
-- Markdown files summarizing key concepts and findings
-- Jupyter Notebooks with tutorials, code examples, and projects
-- Scripts and other Python files for more focused coding exercises
+This site documents my exploration into the world of Artificial Intelligence, with a focus on learning, experimentation, and sharing insights with the community.
 
-## 🔍 What You’ll Find Here
+I'm actively working on this project, so expect a variety of content, including:
 
-1. **Handbooks:** Practical reference guides for exploring AI concepts and putting them into practice.
-2. **Walkthroughs:** Step-by-step explanations of AI topics, suitable for beginners and those looking to deepen their understanding.
-3. **Experiments:** Explorations of different libraries, frameworks, and techniques in the AI ecosystem.
-
-## 📂 Repository Structure
-
-For now, the files are organized as follows:
-
-- **/patterns:** Markdown summaries of useful prompting patterns for AI tools like ChatGPT & Claude
-- **/notebooks:** Jupyter Notebooks with in-depth explorations and projects
-- **/scripts:** Standalone Python scripts and utilities
-- **/docs:** Additional notes & resources
+- Markdown files summarizing key concepts and findings (now)
+- Links to useful resources (now)
+- My daily blog of learning and experimentation (now)
+- Jupyter Notebooks with tutorials, code examples, and projects (future)
+- Scripts and other Python files for more focused coding exercises (future)
 
 This will evolve over time.
 
-## 🎉 Contributing
-
-If you have suggestions, ideas, or improvements, feel free to contact me. I’m eager to learn from the community!
-
-## 👋 About Me
+## 👨‍💻 About Me
 
 Hey, I'm Patrick!
 
-I'm the creator of this repo and the writer behind [Unknown Arts](https://www.unknownarts.co) on Substack. What’s my writing like? Imagine if Seth Godin and Derek Sivers had a design brainchild.
+I'm the creator of this repo and the writer behind [Unknown Arts](https://www.unknownarts.co) on Substack.
 
-You can also find me on [X](https://x.com/itspatmorgan), [LinkedIn](https://www.linkedin.com/in/itspatmorgan/), and [Threads](https://www.threads.net/@itspatmorgan).
+Through *Unknown Arts*, I help creative professionals embrace the power of cutting-edge tools and timeless wisdom to find their way to creative success and fulfillment.
 
-I’ve built a multidisciplinary career over more than a decade in tech:
-
-- I designed UX for billion-dollar enterprise software startups
-- I engineered software for a consumer finance behemoth
-- And I crafted communication strategies for some of the world's top brands.
-
-Design, engineering, and brand strategy — together, they form a powerful skill set that helps modern creators excel.
+I’ve spent over a decade designing digital products and pushing the boundaries of innovation for top brands, but my real passion lies in exploring how creative people can harness technology to unlock their best work. Whether you’re an artist, entrepreneur, or technologist, this space is designed to help you tap into the creative power that comes from both technology and timeless craft traditions.
 
 This project is a way for me to explore practical uses of AI and share them with other creative professionals. I want to elevate our collective understanding of these transformative technologies and support creatives in our shared quest to create meaningful work that positively impacts the world.
 
 Now, let’s get building!
+
+## 🔗 Connect
+
+You can find me on [X](https://x.com/itspatmorgan), [LinkedIn](https://www.linkedin.com/in/itspatmorgan/), and [Threads](https://www.threads.net/@itspatmorgan).
+
+## 🤝 Contributing
+
+If you have suggestions, ideas, or improvements, feel free to contact me. I’m eager to learn from the community!
+
+## 📄 License
+
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the content as long as you provide appropriate attribution.
