@@ -13,10 +13,11 @@ The Resource Catalog contains a curated collection of resources, tools, and mate
 
 1. [Articles](/docs/resource-catalog/articles)
 2. [Videos](/docs/resource-catalog/videos)
-3. [Courses](/docs/resource-catalog/courses)
-4. [AI Model Guides](/docs/resource-catalog/model-guides)
-5. [AI Tools](/docs/resource-catalog/tools)
-6. [Jobs](/docs/resource-catalog/jobs)
+3. [Newsletters](/docs/resource-catalog/newsletters)
+4. [Courses](/docs/resource-catalog/courses)
+5. [AI Model Guides](/docs/resource-catalog/model-guides)
+6. [AI Tools](/docs/resource-catalog/tools)
+7. [Jobs](/docs/resource-catalog/jobs)
 
 I'm just getting started, so don't hesitate to suggest new resources or provide feedback on existing ones.
 

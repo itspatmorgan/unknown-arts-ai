@@ -6,7 +6,7 @@ sidebar:
 weight: 10
 ---
 
-This library serves as a comprehensive guide to the Unknown Arts AI project, providing insights into AI technologies, prompt engineering, and creative applications of generative AI.
+This growing collection of resources serves as my personal library for the Unknown Arts AI project, gathering insights into AI technologies, prompt engineering, and creative applications of generative AI.
 
 ## Contents
 
@@ -25,6 +25,7 @@ The [Resource Catalog](/docs/resource-catalog) is divided into several categorie
 
 - Articles
 - Videos
+- Newsletters
 - Courses
 - Model Guides
 - Tools
@@ -46,4 +47,4 @@ These patterns are designed to enhance your AI interactions, automate tasks, and
 
 ## Ongoing Development
 
-I'm actively working on expanding this library every day. Check back regularly for updates, new sections, and additional resources as we continue to explore the intersection of AI and creativity.
+I'm working on expanding this library every day. Check back regularly for updates, new sections, and additional resources as we continue to explore the intersection of AI and creativity.
