@@ -6,7 +6,7 @@ Role: Head of Developer Relations at Anthropic
 
 ### Channels
 - [Website](https://alexalbert.me)
-- [X](https://x.com/alexalbert)
+- [X/Twitter](https://x.com/alexalbert)
 - [LinkedIn](https://www.linkedin.com/in/alex-albert/)
 - [Newsletter](https://alexalbert.substack.com)
 - [GitHub](https://github.com/alexalbert)
