@@ -1,5 +1,6 @@
 ---
 title: 'Articles'
+weight: 2
 ---
 
 *Articles I've read and think are valuable and ones I want to read.*

@@ -23,10 +23,10 @@ This growing collection of resources serves as my personal library for the Unkno
 
 The [Resource Catalog](/docs/resource-catalog) is divided into several categories:
 
+- Courses
 - Articles
 - Videos
 - Newsletters
-- Courses
 - Model Guides
 - Tools
 - Jobs

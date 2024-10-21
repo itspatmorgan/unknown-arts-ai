@@ -1,5 +1,6 @@
 ---
 title: 'Tools'
+weight: 6
 ---
 
 *Tools I use or want to explore.*

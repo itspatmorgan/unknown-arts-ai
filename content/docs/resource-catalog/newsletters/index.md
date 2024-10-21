@@ -1,5 +1,6 @@
 ---
 title: Newsletters
+weight: 4
 ---
 
 *Newsletters & blogs I keep an eye on.*

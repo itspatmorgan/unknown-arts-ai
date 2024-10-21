@@ -1,5 +1,6 @@
 ---
 title: 'Courses'
+weight: 1
 ---
 
 *Courses I'm taking or am interested in taking. There are a lot of courses out there, so I'm only tracking ones that I plan to explore or have explored.*

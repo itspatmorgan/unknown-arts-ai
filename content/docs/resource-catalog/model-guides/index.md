@@ -1,5 +1,6 @@
 ---
 title: 'Model Guides'
+weight: 5
 ---
 
 *A centralized place to find guides for different models.*

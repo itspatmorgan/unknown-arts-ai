@@ -1,5 +1,6 @@
 ---
 title: 'Jobs'
+weight: 7
 ---
 
 *Studying the requirements of jobs in this emerging space.*
