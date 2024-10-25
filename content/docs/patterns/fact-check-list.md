@@ -32,8 +32,8 @@ After generating a response, the AI lists essential facts or data points that re
 - **For Educators**: Summarize key facts in lesson plans or study guides.
 
 ## Related Patterns
-- **[Reflection]({{< relref "/docs/patterns/reflection.md" >}})**: Use Reflection alongside Fact Check List to encourage the AI to review its responses.
-- **[Cognitive Verifier]({{< relref "/docs/patterns/cognitive-verifier.md" >}})**: Use Cognitive Verifier for breaking down and verifying complex information.
+- **[Reflection](../reflection)**: Use Reflection alongside Fact Check List to encourage the AI to review its responses.
+- **[Cognitive Verifier](../cognitive-verifier)**: Use Cognitive Verifier for breaking down and verifying complex information.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

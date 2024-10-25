@@ -33,8 +33,8 @@ After stating a problem or question, prompt the AI to suggest alternative soluti
 - **For Business Strategists**: Generate various strategies to address a business challenge.
 
 ## Related Patterns
-- **[Question Refinement]({{< relref "/docs/patterns/question-refinement.md" >}})**: Use with Question Refinement to explore different angles on refined questions.
-- **[Persona]({{< relref "/docs/patterns/persona.md" >}})**: Experiment with different personas for varied perspectives on the same issue.
+- **[Question Refinement](../question-refinement)**: Use with Question Refinement to explore different angles on refined questions.
+- **[Persona](../persona)**: Experiment with different personas for varied perspectives on the same issue.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

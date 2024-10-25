@@ -32,8 +32,8 @@ You start with an initial prompt, and the AI continues generating content based 
 - **For Marketers**: Generate content ideas or blog posts in an iterative fashion.
 
 ## Related Patterns
-- **[Game Play]({{< relref "/docs/patterns/game-play.md" >}})**: Use with Game Play for ongoing, dynamic game interactions.
-- **[Context Manager]({{< relref "/docs/patterns/context-manager.md" >}})**: Combine with Context Manager to maintain topic focus across long sessions.
+- **[Game Play](../game-play)**: Use with Game Play for ongoing, dynamic game interactions.
+- **[Context Manager](../context-manager)**: Combine with Context Manager to maintain topic focus across long sessions.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

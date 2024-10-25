@@ -1,6 +1,5 @@
 ---
 title: 'Projects'
-weight: 3
 prev: patterns
 ---
 

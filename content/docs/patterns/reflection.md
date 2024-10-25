@@ -32,8 +32,8 @@ After generating an initial response, prompt the AI to reflect on its accuracy, 
 - **For Editors**: Use reflection to improve clarity and consistency in editorial content.
 
 ## Related Patterns
-- **[Fact Check List]({{< relref "/docs/patterns/fact-check-list.md" >}})**: Use Fact Check List for targeted verification alongside Reflection.
-- **[Cognitive Verifier]({{< relref "/docs/patterns/cognitive-verifier.md" >}})**: Pair with Cognitive Verifier for detailed reviews of complex content.
+- **[Fact Check List](../fact-check-list)**: Use Fact Check List for targeted verification alongside Reflection.
+- **[Cognitive Verifier](../cognitive-verifier)**: Pair with Cognitive Verifier for detailed reviews of complex content.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

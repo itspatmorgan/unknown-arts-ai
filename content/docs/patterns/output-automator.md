@@ -31,8 +31,8 @@ Define the desired output format once and have the AI reproduce it across tasks 
 - **For Content Creators**: Automate recurring content, like newsletters or blog posts.
 
 ## Related Patterns
-- **[Template]({{< relref "/docs/patterns/template.md" >}})**: Output Automater works well with Templates for structured outputs.
-- **[Persona]({{< relref "/docs/patterns/persona.md" >}})**: Use Output Automater with Persona to ensure the output remains in a specific voice.
+- **[Template](../template)**: Output Automater works well with Templates for structured outputs.
+- **[Persona](../persona)**: Use Output Automater with Persona to ensure the output remains in a specific voice.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

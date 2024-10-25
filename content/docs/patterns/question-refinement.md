@@ -33,8 +33,8 @@ After posing an initial question, prompt the AI to suggest improvements or modif
 - **For Interviewers**: Improve interview questions to elicit more detailed responses.
 
 ## Related Patterns
-- **[Alternative Approaches]({{< relref "/docs/patterns/alternative-approaches.md" >}})**: Use with Alternative Approaches for multiple perspectives on refining questions.
-- **[Cognitive Verifier]({{< relref "/docs/patterns/cognitive-verifier.md" >}})**: Pair with Cognitive Verifier to break down and refine complex queries.
+- **[Alternative Approaches](../alternative-approaches)**: Use with Alternative Approaches for multiple perspectives on refining questions.
+- **[Cognitive Verifier](../cognitive-verifier)**: Pair with Cognitive Verifier to break down and refine complex queries.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

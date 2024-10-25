@@ -32,8 +32,8 @@ Set rules or objectives, and prompt the AI to respond within that framework, sim
 - **For Storytellers**: Role-play scenarios to develop characters or plot ideas.
 
 ## Related Patterns
-- **[Flipped Interaction]({{< relref "/docs/patterns/flipped-interaction.md" >}})**: Use with Flipped Interaction to let the AI ask questions as part of the game.
-- **[Infinite Generation]({{< relref "/docs/patterns/infinite-generation.md" >}})**: Combine with Infinite Generation for ongoing, evolving game scenarios.
+- **[Flipped Interaction](../flipped-interaction)**: Use with Flipped Interaction to let the AI ask questions as part of the game.
+- **[Infinite Generation](../infinite-generation)**: Combine with Infinite Generation for ongoing, evolving game scenarios.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

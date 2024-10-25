@@ -31,8 +31,8 @@ Provide specific visual cues and desired outcomes, enabling the AI to produce co
 - **For Filmmakers**: Describe scenes or settings for storyboard planning.
 
 ## Related Patterns
-- **[Template]({{< relref "/docs/patterns/template.md" >}})**: Use Visualization Generator with Template for structured visual prompts.
-- **[Output Automator]({{< relref "/docs/patterns/output-automator.md" >}})**: Automate generation of multiple related visual descriptions.
+- **[Template](../template)**: Use Visualization Generator with Template for structured visual prompts.
+- **[Output Automator](../output-automator)**: Automate generation of multiple related visual descriptions.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

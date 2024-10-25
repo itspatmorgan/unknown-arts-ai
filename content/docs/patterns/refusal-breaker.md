@@ -32,8 +32,8 @@ If the AI refuses to respond to a prompt, modify the phrasing or context to enco
 - **For Content Creators**: Overcome content restrictions when exploring controversial subjects.
 
 ## Related Patterns
-- **[Question Refinement]({{< relref "/docs/patterns/question-refinement.md" >}})**: Use Question Refinement to improve rephrased prompts.
-- **[Context Manager]({{< relref "/docs/patterns/context-manager.md" >}})**: Combine with Context Manager to provide background that may prevent refusals.
+- **[Question Refinement](../question-refinement)**: Use Question Refinement to improve rephrased prompts.
+- **[Context Manager](../context-manager)**: Combine with Context Manager to provide background that may prevent refusals.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

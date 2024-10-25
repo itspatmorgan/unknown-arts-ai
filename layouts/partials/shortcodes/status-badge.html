@@ -1,0 +1,10 @@
+{{ $status := .Params.status | default "draft" }}
+{{ $content := title $status }}
+{{ $type := cond (or (eq $status "draft") (eq $status "")) "info" (cond (eq $status "error") "error" (cond (eq $status "warning") "warning" "default")) }}
+
+{{ partial "shortcodes/badge.html" (dict 
+    "content" $content 
+    "type" $type 
+    "border" true 
+    "class" "hx-ml-2"
+) }}

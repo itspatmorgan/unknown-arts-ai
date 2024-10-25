@@ -32,8 +32,8 @@ Define a set of symbols or phrases that represent common actions or requests. Ex
 - **For Writers**: Implement shorthand for repetitive editorial tasks, like highlighting or fact-checking.
 
 ## Related Patterns
-- **[Context Manager]({{< relref "/docs/patterns/context-manager.md" >}})**: Use Meta Language Creation alongside Context Manager to set the stage for specific interaction contexts.
-- **[Template]({{< relref "/docs/patterns/template.md" >}})**: Combine with Template to structure responses with shorthand.
+- **[Context Manager](../context-manager)**: Use Meta Language Creation alongside Context Manager to set the stage for specific interaction contexts.
+- **[Template](../template)**: Combine with Template to structure responses with shorthand.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

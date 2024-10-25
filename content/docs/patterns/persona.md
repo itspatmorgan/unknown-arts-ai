@@ -31,9 +31,9 @@ By specifying a particular character, professional role, or style, you guide the
 - **For Marketers**: Develop a brand voice and ensure consistent messaging across content.
 
 ## Related Patterns
-- **[Template]({{< relref "/docs/patterns/template.md" >}})**: Combine Persona with Template to structure the output with a specific voice.
-- **[Flipped Interaction]({{< relref "/docs/patterns/flipped-interaction.md" >}})**: Let the AI lead as the assigned persona.
-- **[Alternative Approaches]({{< relref "/docs/patterns/alternative-approaches.md" >}})**: Experiment with different personas for varied perspectives.
+- **[Template](../template)**: Combine Persona with Template to structure the output with a specific voice.
+- **[Flipped Interaction](../flipped-interaction)**: Let the AI lead as the assigned persona.
+- **[Alternative Approaches](../alternative-approaches)**: Experiment with different personas for varied perspectives.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

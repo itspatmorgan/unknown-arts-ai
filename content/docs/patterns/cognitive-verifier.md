@@ -32,9 +32,9 @@ You prompt the AI to break down a complicated topic into its individual elements
 - **For Analysts**: Break down intricate data sets into simpler components for analysis.
 
 ## Related Patterns
-- **[Fact Check List]({{< relref "/docs/patterns/fact-check-list.md" >}})**: Use Fact Check List for factual verification of each component.
-- **[Reflection]({{< relref "/docs/patterns/reflection.md" >}})**: Pair with Reflection to enhance accuracy and cohesion across components.
-- **[Question Refinement]({{< relref "/docs/patterns/question-refinement.md" >}})**: Use with Question Refinement to break down complex queries and refine them for clarity.
+- **[Fact Check List](../fact-check-list)**: Use Fact Check List for factual verification of each component.
+- **[Reflection](../reflection)**: Pair with Reflection to enhance accuracy and cohesion across components.
+- **[Question Refinement](../question-refinement)**: Use with Question Refinement to break down complex queries and refine them for clarity.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

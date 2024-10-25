@@ -1,7 +1,7 @@
 ---
 title: 'Resource Catalog'
 weight: 1
-next: patterns
+next: concepts
 prev: docs
 ---
 

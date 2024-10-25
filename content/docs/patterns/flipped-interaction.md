@@ -33,8 +33,8 @@ Instead of the user asking questions, the AI takes the initiative, posing questi
 - **For Writers**: Engage the AI in exploring new angles on a topic.
 
 ## Related Patterns
-- **[Persona]({{< relref "/docs/patterns/persona.md" >}})**: Use with Persona to give the AI a specific role, like a therapist or teacher, during interaction.
-- **[Context Manager]({{< relref "/docs/patterns/context-manager.md" >}})**: Provide context for the AI to frame its questions appropriately.
+- **[Persona](../persona)**: Use with Persona to give the AI a specific role, like a therapist or teacher, during interaction.
+- **[Context Manager](../context-manager)**: Provide context for the AI to frame its questions appropriately.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

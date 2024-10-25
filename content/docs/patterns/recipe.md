@@ -32,8 +32,8 @@ You define the goal and desired steps, and the AI generates a detailed sequence 
 - **For Project Managers**: Outline processes for project phases or task sequences.
 
 ## Related Patterns
-- **[Template]({{< relref "/docs/patterns/template.md" >}})**: Use Visualization Generator with Template for structured visual prompts.
-- **[Output Automator]({{< relref "/docs/patterns/output-automator.md" >}})**: Use with Output Automator to generate recipes for recurring tasks.
+- **[Template](../template)**: Use Visualization Generator with Template for structured visual prompts.
+- **[Output Automator](../output-automator)**: Use with Output Automator to generate recipes for recurring tasks.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

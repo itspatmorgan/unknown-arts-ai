@@ -32,8 +32,8 @@ Define a layout or format, and the AI will fill in the content accordingly. Temp
 - **For Designers**: Develop layout templates for presentations or documents.
 
 ## Related Patterns
-- **[Output Automator]({{< relref "/docs/patterns/output-automator.md" >}})**: Combine with Output Automator for repetitive templated outputs.
-- **[Recipe]({{< relref "/docs/patterns/recipe.md" >}})**: Use with Recipe to format step-by-step guides in a consistent manner.
+- **[Output Automator](../output-automator)**: Combine with Output Automator for repetitive templated outputs.
+- **[Recipe](../recipe)**: Use with Recipe to format step-by-step guides in a consistent manner.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)

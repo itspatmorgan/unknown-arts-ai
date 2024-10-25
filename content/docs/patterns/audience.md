@@ -30,9 +30,9 @@ By specifying a particular audience you're creating for, you guide the AI toward
 - **For Marketers**: Develop a brand voice and ensure consistent messaging across content.
 
 ## Related Patterns
-- **[Persona]({{< relref "/docs/patterns/persona.md" >}})**: Use Persona to create specific audience profiles.
-- **[Template]({{< relref "/docs/patterns/template.md" >}})**: Combine Audience with Template to structure the output for a specific group.
-- **[Flipped Interaction]({{< relref "/docs/patterns/flipped-interaction.md" >}})**: Let the AI lead as the assigned persona.
+- **[Persona](../persona)**: Use Persona to create specific audience profiles.
+- **[Template](../template)**: Combine Audience with Template to structure the output for a specific group.
+- **[Flipped Interaction](../flipped-interaction)**: Let the AI lead as the assigned persona.
 
 ## Sources
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382)
