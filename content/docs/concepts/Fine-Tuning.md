@@ -22,6 +22,7 @@ Fine-tuning involves taking a pre-trained model and refining it with additional 
 - TBD
 
 ## Related Concepts
-- [Few-Shot Learning](../Few-Shot_Learning) – Few-shot techniques can also adapt models to new tasks with minimal data.
-- [Embedding](../Embedding) – Fine-tuning may adjust the embeddings of a model to fit specific vocabularies.
-- [Generative AI](../Generative_AI) – Fine-tuning generative models for targeted content generation.
+- [Few-Shot Learning](../few-shot_learning) – Few-shot techniques can also adapt models to new tasks with minimal data.
+- [Embedding](../embedding) – Fine-tuning may adjust the embeddings of a model to fit specific vocabularies.
+- [Generative AI](../generative_ai) – Fine-tuning generative models for targeted content generation.
+

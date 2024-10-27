@@ -22,6 +22,6 @@ Embeddings are numerical representations of words, phrases, or concepts that cap
 - **Tomas Mikolov** – Known for developing Word2Vec, a groundbreaking approach to embeddings in language models.
 
 ## Related Concepts
-- [Dense vs Sparse Vectors](../Dense_Sparse_Vectors) – Embeddings are usually dense vectors for computational efficiency.
-- [Cosine Similarity](../Cosine_Similarity) – Often used to compare embeddings based on similarity.
-- [Token](../Token) – Embeddings are created for tokens, the units of language in models.
+- [Dense vs Sparse Vectors](../dense_sparse_vectors) – Embeddings are usually dense vectors for computational efficiency.
+- [Cosine Similarity](../cosine_similarity) – Often used to compare embeddings based on similarity.
+- [Token](../token) – Embeddings are created for tokens, the units of language in models.

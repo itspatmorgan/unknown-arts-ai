@@ -23,6 +23,6 @@ AI refers to the development of systems capable of tasks that usually require hu
 - **John McCarthy** – Credited with coining the term “Artificial Intelligence” in 1956.
 
 ## Related Concepts
-- [Machine Learning](../Machine_Learning) – A subset of AI focused on learning from data.
-- [Deep Learning](../Deep_Learning) – An advanced subset of machine learning that enables high-level data processing.
-- [Generative AI](../Generative_AI) – A branch of AI focused on creating new content.
+- [Machine Learning](../machine_learning) – A subset of AI focused on learning from data.
+- [Deep Learning](../deep_learning) – An advanced subset of machine learning that enables high-level data processing.
+- [Generative AI](../generative_ai) – A branch of AI focused on creating new content.

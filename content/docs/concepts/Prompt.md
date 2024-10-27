@@ -22,5 +22,5 @@ In language models, a prompt serves as a guiding input that frames the response 
 - TBD
 
 ## Related Concepts
-- [Meta-Prompting](../Meta-Prompting) – A technique for designing layered or indirect prompts to influence output.
-- [Few-Shot Learning](../Few-Shot_Learning) – A type of prompting that shows examples to guide model responses.
+- [Meta-Prompting](../meta-prompting) – A technique for designing layered or indirect prompts to influence output.
+- [Few-Shot Learning](../few-shot_learning) – A type of prompting that shows examples to guide model responses.

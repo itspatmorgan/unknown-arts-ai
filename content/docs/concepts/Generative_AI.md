@@ -22,6 +22,7 @@ Generative AI models are trained to produce new content by learning patterns in 
 - TBD
 
 ## Related Concepts
-- [LLM (Large Language Model)](../LLM) – Type of generative AI focused on text.
-- [Deep Learning](../Deep_Learning) – Many generative AI models rely on deep learning architectures.
-- [Sampling](../Sampling) – Used in generative models to introduce variation in outputs.
+- [LLM (Large Language Model)](../llm) – Type of generative AI focused on text.
+- [Deep Learning](../deep_learning) – Many generative AI models rely on deep learning architectures.
+- [Sampling](../sampling) – Used in generative models to introduce variation in outputs.
+

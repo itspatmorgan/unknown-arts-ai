@@ -22,6 +22,6 @@ Cosine Similarity is a metric used to measure the similarity between two non-zer
 - TBD
 
 ## Related Concepts
-- [Embeddings](../Embedding) – Represent words or concepts as vectors, often compared using cosine similarity.
-- [Dense vs Sparse Vectors](../Dense_Sparse_Vectors) – Different representations used with cosine similarity for evaluating similarity and clustering.
-- [Semantic Similarity](../Semantic_Similarity) – Measures conceptual similarity between word embeddings using metrics like cosine similarity.
+- [Embeddings](../embedding) – Represent words or concepts as vectors, often compared using cosine similarity.
+- [Dense vs Sparse Vectors](../dense_sparse_vectors) – Different representations used with cosine similarity for evaluating similarity and clustering.
+- [Semantic Similarity](../semantic_similarity) – Measures conceptual similarity between word embeddings using metrics like cosine similarity.

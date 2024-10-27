@@ -23,6 +23,7 @@ Machine Learning is a branch of AI where models are trained on data to identify 
 - **Andrew Ng** – Machine learning researcher and educator known for popularizing ML through online courses.
 
 ## Related Concepts
-- [Deep Learning](../Deep_Learning) – A subset of machine learning with advanced neural network structures.
-- [AI](../AI) – Machine learning is a primary technique within artificial intelligence.
-- [Few-Shot Learning](../Few-Shot_Learning) – A machine learning technique using minimal data.
+- [Deep Learning](../deep_learning) – A subset of machine learning with advanced neural network structures.
+- [AI](../ai) – Machine learning is a primary technique within artificial intelligence.
+- [Few-Shot Learning](../few-shot_learning) – A machine learning technique using minimal data.
+

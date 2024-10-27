@@ -22,5 +22,5 @@ Few-shot learning allows AI models to generalize tasks by learning from a limite
 - TBD
 
 ## Related Concepts
-- [Fine-Tuning](../Fine-Tuning) – Few-shot learning is an alternative to fine-tuning for specific tasks.
-- [Prompt](../Prompt) – Few-shot prompting often involves showing examples in the prompt to guide the model.
+- [Fine-Tuning](../fine-tuning) – Few-shot learning is an alternative to fine-tuning for specific tasks.
+- [Prompt](../prompt) – Few-shot prompting often involves showing examples in the prompt to guide the model.

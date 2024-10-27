@@ -25,6 +25,6 @@ Decoding is the process by which a language model chooses each word (or “token
 - **Ilya Sutskever** – Co-founder of OpenAI, instrumental in advancing decoding strategies in AI.
 
 ## Related Concepts
-- [Sampling](../Sampling) – A method within decoding, valuable for creative outputs.
-- [Token](../Token) – Decoding operates at the token level, where each chosen token shapes the AI’s output.
-- [Fine-Tuning](../Fine-Tuning) – Training to improve model effectiveness with specific decoding methods.
+- [Sampling](../sampling) – A method within decoding, valuable for creative outputs.
+- [Token](../token) – Decoding operates at the token level, where each chosen token shapes the AI’s output.
+- [Fine-Tuning](../fine-tuning) – Training to improve model effectiveness with specific decoding methods.

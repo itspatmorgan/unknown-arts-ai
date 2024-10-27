@@ -22,6 +22,7 @@ In vector-based data representation, **dense vectors** are filled with non-zero 
 - TBD
 
 ## Related Concepts
-- [Cosine Similarity](../Cosine_Similarity) – Commonly used to measure similarity between dense vectors.
-- [Embedding](../Embedding) – Dense vectors are a common form for embeddings in NLP.
-- [t-SNE](../t-SNE) – Visualizes high-dimensional data, often dense vectors, in a reduced dimensional space.
+- [Cosine Similarity](../cosine_similarity) – Commonly used to measure similarity between dense vectors.
+- [Embedding](../embedding) – Dense vectors are a common form for embeddings in NLP.
+- [t-SNE](../t-sne) – Visualizes high-dimensional data, often dense vectors, in a reduced dimensional space.
+

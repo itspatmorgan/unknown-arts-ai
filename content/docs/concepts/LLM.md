@@ -22,6 +22,6 @@ LLMs are advanced language models trained on vast amounts of text to generate co
 - TBD
 
 ## Related Concepts
-- [Generative AI](../Generative_AI) – LLMs are a type of generative AI specializing in text.
-- [Deep Learning](../Deep_Learning) – The foundation of most large language models.
-- [Embedding](../Embedding) – LLMs use embeddings to represent words and phrases for language understanding.
+- [Generative AI](../generative_ai) – LLMs are a type of generative AI specializing in text.
+- [Deep Learning](../deep_learning) – The foundation of most large language models.
+- [Embedding](../embedding) – LLMs use embeddings to represent words and phrases for language understanding.

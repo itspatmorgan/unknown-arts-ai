@@ -22,6 +22,6 @@ Tokens are the individual units that make up language for a model. Depending on 
 - TBD
 
 ## Related Concepts
-- [Decoding](../Decoding) – The process of selecting the next token in generating text.
-- [Embedding](../Embedding) – Tokens are often converted to embeddings to capture their meaning.
-- [Few-Shot Learning](../Few-Shot_Learning) – Involves providing tokens as examples to guide model responses.
+- [Decoding](../decoding) – The process of selecting the next token in generating text.
+- [Embedding](../embedding) – Tokens are often converted to embeddings to capture their meaning.
+- [Few-Shot Learning](../few-shot_learning) – Involves providing tokens as examples to guide model responses.
