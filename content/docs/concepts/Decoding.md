@@ -1,7 +1,9 @@
 ---
 title: 'Decoding'
 tags: [Text Generation, NLP Techniques, Language Models]
+draft: false
 ---
+
 ## Core Idea
 Decoding is how AI picks words to build its response, influencing how natural or accurate the output sounds.
 
@@ -17,13 +19,12 @@ Decoding is the process by which a language model chooses each word (or “token
 - **Translation** – Beam search preserves sentence flow and meaning in language translations.
 
 ## Related Resources
-- **“A Survey of Decoding Methods in Natural Language Generation”** – Paper comparing decoding strategies for clarity and creativity.
-- **OpenAI API Documentation on Decoding** – Practical guidance for developers.
+- TBD
 
 ## Related People
 - **Ilya Sutskever** – Co-founder of OpenAI, instrumental in advancing decoding strategies in AI.
 
 ## Related Concepts
-- [[Sampling]] – A method within decoding, valuable for creative outputs.
-- [[Token]] – Decoding operates at the token level, where each chosen token shapes the AI’s output.
-- [[Fine-Tuning]] – Training to improve model effectiveness with specific decoding methods.
+- [Sampling](../Sampling) – A method within decoding, valuable for creative outputs.
+- [Token](../Token) – Decoding operates at the token level, where each chosen token shapes the AI’s output.
+- [Fine-Tuning](../Fine-Tuning) – Training to improve model effectiveness with specific decoding methods.

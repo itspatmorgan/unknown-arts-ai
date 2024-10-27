@@ -1,7 +1,9 @@
 ---
 title: 'Prompt'
 tags: [Prompting Techniques, NLP, Language Models]
+draft: false
 ---
+
 ## Core Idea
 A prompt is an instruction given to a model, guiding it to generate specific types of responses.
 
@@ -14,13 +16,11 @@ In language models, a prompt serves as a guiding input that frames the response 
 - **Data Analysis** – Prompts the model to analyze or summarize information, often within large datasets.
 
 ## Related Resources
-- **OpenAI API Prompting Guide** – Practical tips on structuring prompts for desired outcomes.
-- **“Better Language Model Prompts” by Gwern Branwen** – Exploration of effective prompting strategies.
+- **[OpenAI API Prompting Guide](https://platform.openai.com/docs/guides/prompt-engineering)** – Practical tips on structuring prompts.
 
 ## Related People
-- **Dario Amodei** – AI researcher focused on improving prompt effectiveness in OpenAI’s models.
+- TBD
 
 ## Related Concepts
-- [[Meta-Prompting]] – A technique for designing layered or indirect prompts to influence output.
-- [[Chain-of-Thought Prompting]] – Uses step-by-step prompts for tasks requiring structured reasoning.
-- [[Few-Shot Learning]] – A type of prompting that shows examples to guide model responses.
+- [Meta-Prompting](../Meta-Prompting) – A technique for designing layered or indirect prompts to influence output.
+- [Few-Shot Learning](../Few-Shot_Learning) – A type of prompting that shows examples to guide model responses.

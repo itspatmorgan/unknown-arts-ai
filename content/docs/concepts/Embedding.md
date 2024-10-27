@@ -1,7 +1,9 @@
 ---
 title: 'Embedding'
 tags: [NLP, Machine Learning, Representation]
+draft: false
 ---
+
 ## Core Idea
 An embedding is a way of representing words or concepts as numbers to capture their meaning and relationships in a model.
 
@@ -14,13 +16,12 @@ Embeddings are numerical representations of words, phrases, or concepts that cap
 - **Recommendation Engines** – Matches users with similar content based on shared characteristics.
 
 ## Related Resources
-- **“Efficient Estimation of Word Representations in Vector Space” by Mikolov et al.** – Foundational paper on word embeddings using the Word2Vec model.
-- **TensorFlow Embeddings Documentation** – Practical guide to implementing embeddings in AI applications.
+- **“[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)” by Mikolov et al.** – Foundational paper on word embeddings using the Word2Vec model.
 
 ## Related People
 - **Tomas Mikolov** – Known for developing Word2Vec, a groundbreaking approach to embeddings in language models.
 
 ## Related Concepts
-- [[Dense vs Sparse Vectors]] – Embeddings are usually dense vectors for computational efficiency.
-- [[Cosine Similarity]] – Often used to compare embeddings based on similarity.
-- [[Token]] – Embeddings are created for tokens, the units of language in models.
+- [Dense vs Sparse Vectors](../Dense_Sparse_Vectors) – Embeddings are usually dense vectors for computational efficiency.
+- [Cosine Similarity](../Cosine_Similarity) – Often used to compare embeddings based on similarity.
+- [Token](../Token) – Embeddings are created for tokens, the units of language in models.

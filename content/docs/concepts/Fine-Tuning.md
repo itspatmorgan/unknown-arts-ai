@@ -1,6 +1,7 @@
 ---
 title: 'Fine-Tuning'
 tags: [Model Training, AI, NLP]
+draft: false
 ---
 
 ## Core Idea
@@ -15,13 +16,12 @@ Fine-tuning involves taking a pre-trained model and refining it with additional 
 - **Legal Document Review** – Training a model on legal documents to support contract analysis.
 
 ## Related Resources
-- **“Language Models are Few-Shot Learners”** (GPT-3 paper by OpenAI) – Describes the benefits of fine-tuning on domain-specific tasks.
-- **Hugging Face Fine-Tuning Guide** – Practical instructions for fine-tuning language models on custom datasets.
+- TBD
 
 ## Related People
-- **Jeremy Howard** – Advocate for transfer learning and fine-tuning in NLP through Fast.ai.
+- TBD
 
 ## Related Concepts
-- [[Few-Shot Learning]] – Few-shot techniques can also adapt models to new tasks with minimal data.
-- [[Embedding]] – Fine-tuning may adjust the embeddings of a model to fit specific vocabularies.
-- [[Generative AI]] – Fine-tuning generative models for targeted content generation.
+- [Few-Shot Learning](../Few-Shot_Learning) – Few-shot techniques can also adapt models to new tasks with minimal data.
+- [Embedding](../Embedding) – Fine-tuning may adjust the embeddings of a model to fit specific vocabularies.
+- [Generative AI](../Generative_AI) – Fine-tuning generative models for targeted content generation.

@@ -1,7 +1,9 @@
 ---
 title: 'Token'
 tags: [NLP, Language Models, Machine Learning]
+draft: false
 ---
+
 ## Core Idea
 A token is a small piece of text, such as a word, subword, or character, that language models use as the building blocks for generating language.
 
@@ -14,13 +16,12 @@ Tokens are the individual units that make up language for a model. Depending on 
 - **Sentiment Analysis** – Analyzes each token’s sentiment contribution for accurate sentiment scoring.
 
 ## Related Resources
-- **“Byte Pair Encoding (BPE)”** – A popular tokenization method that balances whole-word and subword representation.
-- **OpenAI Tokenizer Guide** – Overview of tokenization used in GPT-3.
+- TBD
 
 ## Related People
-- **Philip Gage** – Developed the original Byte Pair Encoding (BPE) method for data compression, which is now widely used in NLP tokenization.
+- TBD
 
 ## Related Concepts
-- [[Decoding]] – The process of selecting the next token in generating text.
-- [[Embedding]] – Tokens are often converted to embeddings to capture their meaning.
-- [[Few-Shot Learning]] – Involves providing tokens as examples to guide model responses.
+- [Decoding](../Decoding) – The process of selecting the next token in generating text.
+- [Embedding](../Embedding) – Tokens are often converted to embeddings to capture their meaning.
+- [Few-Shot Learning](../Few-Shot_Learning) – Involves providing tokens as examples to guide model responses.

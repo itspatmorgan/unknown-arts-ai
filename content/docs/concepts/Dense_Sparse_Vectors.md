@@ -1,7 +1,9 @@
 ---
 title: 'Dense vs. Sparse Vectors'
 tags: [Vector Representation, Machine Learning, NLP]
+draft: false
 ---
+
 ## Core Idea
 Dense and sparse vectors are two types of data representations, with dense vectors having mostly non-zero values and sparse vectors having mostly zero values.
 
@@ -14,13 +16,12 @@ In vector-based data representation, **dense vectors** are filled with non-zero 
 - **Information Retrieval** – Uses sparse representations like TF-IDF to match search queries with documents.
 
 ## Related Resources
-- **“Efficient Estimation of Word Representations in Vector Space” by Mikolov et al.** – Describes the use of dense vectors in embeddings.
-- **“Introduction to Information Retrieval” by Manning, Raghavan, and Schütze** – Covers sparse vector applications in search and information retrieval.
+- TBD
 
 ## Related People
-- **Tomas Mikolov** – Advanced the use of dense vector embeddings with Word2Vec, which replaced traditional sparse representations.
+- TBD
 
 ## Related Concepts
-- [[Cosine Similarity]] – Commonly used to measure similarity between dense vectors.
-- [[Embedding]] – Dense vectors are a common form for embeddings in NLP.
-- [[t-SNE]] – Visualizes high-dimensional data, often dense vectors, in a reduced dimensional space.
+- [Cosine Similarity](../Cosine_Similarity) – Commonly used to measure similarity between dense vectors.
+- [Embedding](../Embedding) – Dense vectors are a common form for embeddings in NLP.
+- [t-SNE](../t-SNE) – Visualizes high-dimensional data, often dense vectors, in a reduced dimensional space.

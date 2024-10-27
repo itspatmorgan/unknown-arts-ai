@@ -2,6 +2,7 @@ baseURL: "https://ai.unknownarts.co"
 languageCode: "en-us"
 title: "Unknown Arts AI"
 theme: "hextra"
+buildDrafts: "false"
 
 markup:
   # allow raw html

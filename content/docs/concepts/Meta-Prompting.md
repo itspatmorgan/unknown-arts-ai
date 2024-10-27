@@ -1,7 +1,9 @@
 ---
 title: 'Meta-Prompting'
 tags: [Prompting Techniques, NLP, Generative AI]
+draft: false
 ---
+
 ## Core Idea
 Meta-prompting is a strategy that uses prompts to shape or refine how other prompts are formulated, guiding AI output by prompting at a meta level.
 
@@ -14,13 +16,12 @@ Meta-prompting involves crafting a prompt that indirectly influences a model’s
 - **Customer Service** – Helps models maintain a helpful tone or adapt explanations to customer knowledge levels.
 
 ## Related Resources
-- **“How to Train GPT-3 to Be Your Personal Assistant” by Gwern Branwen** – Discusses meta-prompts and shaping AI behavior through layered prompting.
-- **OpenAI API Tips on Prompt Engineering** – Guides on shaping model responses through strategic prompting.
+- TBD
 
 ## Related People
-- **Gwern Branwen** – Known for experimenting with meta-prompting techniques to create layered, guided outputs.
+- TBD
 
 ## Related Concepts
-- [[Prompt]] – Meta-prompts build on standard prompts to enhance response quality.
-- [[Chain-of-Thought Prompting]] – Meta-prompts can help structure thought processes in complex tasks.
-- [[Few-Shot Learning]] – Few-shot techniques sometimes incorporate meta-prompting to guide nuanced responses.
+- [Prompt](../Prompt) – Meta-prompts build on standard prompts to enhance response quality.
+- [Chain-of-Thought Prompting](../Chain-of-Thought_Prompting) – Meta-prompts can help structure thought processes in complex tasks.
+- [Few-Shot Learning](../Few-Shot_Learning) – Few-shot techniques sometimes incorporate meta-prompting to guide nuanced responses.

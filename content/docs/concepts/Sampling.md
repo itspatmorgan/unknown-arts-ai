@@ -1,7 +1,9 @@
 ---
 title: 'Sampling'
 tags: [Decoding Methods, NLP, Language Models]
+draft: false
 ---
+
 ## Core Idea
 Sampling is a method of selecting the next word in text generation based on probability, adding randomness to the output.
 
@@ -14,13 +16,12 @@ Sampling is a decoding technique where the model chooses the next token based on
 - **Game Dialogue Generation** – Randomized responses to enhance immersion and realism.
 
 ## Related Resources
-- **“A Survey of Decoding Methods in Natural Language Generation”** – Paper comparing different sampling and decoding strategies.
-- **OpenAI Sampling Documentation** – Guidelines on using top-k and top-p sampling effectively.
+- TBD
 
 ## Related People
-- **Ilya Sutskever** – Co-founder of OpenAI and contributor to advancements in sampling techniques for AI.
+- TBD
 
 ## Related Concepts
 - [Decoding](../decoding) – Sampling is a type of decoding method for generating text.
-- [Top-K Sampling] – Selects from the top-k most probable tokens for more controlled randomness.
-- [Nucleus Sampling] – Chooses tokens based on a probability threshold for flexible output variety.
+- Top-K Sampling – Selects from the top-k most probable tokens for more controlled randomness.
+- Nucleus Sampling – Chooses tokens based on a probability threshold for flexible output variety.

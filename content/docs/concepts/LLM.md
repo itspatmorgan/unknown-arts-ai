@@ -1,7 +1,9 @@
 ---
 title: 'LLM (Large Language Model)'
 tags: [Language Models, Generative AI, NLP]
+draft: false
 ---
+
 ## Core Idea
 Large Language Models (LLMs) are powerful AI models trained on massive text datasets to understand and generate human language.
 
@@ -14,13 +16,12 @@ LLMs are advanced language models trained on vast amounts of text to generate co
 - **Language Translation** – Translates text between languages while preserving context.
 
 ## Related Resources
-- **OpenAI's GPT-3 Documentation** – Guide on using GPT-3, a widely used large language model.
-- **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** – Paper introducing BERT, another influential LLM.
+- TBD
 
 ## Related People
-- **Ashish Vaswani** – Co-author of the Transformer paper, which introduced the model architecture behind LLMs.
+- TBD
 
 ## Related Concepts
-- [[Generative AI]] – LLMs are a type of generative AI specializing in text.
-- [[Deep Learning]] – The foundation of most large language models.
-- [[Embedding]] – LLMs use embeddings to represent words and phrases for language understanding.
+- [Generative AI](../Generative_AI) – LLMs are a type of generative AI specializing in text.
+- [Deep Learning](../Deep_Learning) – The foundation of most large language models.
+- [Embedding](../Embedding) – LLMs use embeddings to represent words and phrases for language understanding.

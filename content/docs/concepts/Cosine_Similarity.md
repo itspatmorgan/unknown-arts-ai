@@ -1,7 +1,9 @@
 ---
 title: 'Cosine Similarity'
 tags: [Similarity Metrics, Embeddings, NLP, Vector Mathematics]
+draft: true
 ---
+
 ## Core Idea
 Cosine Similarity measures how similar two sets of information are by calculating the angle between their vector representations.
 
@@ -14,13 +16,12 @@ Cosine Similarity is a metric used to measure the similarity between two non-zer
 - **Search and Information Retrieval** – Enhances search results by ranking documents based on similarity to the query vector.
 
 ## Related Resources
-- **“Vector Space Models in Information Retrieval”** – Foundational text on vector space models and cosine similarity applications.
-- **“Efficient Estimation of Word Representations in Vector Space”** by Mikolov et al. (Word2Vec Paper) – Discusses word vectors, which commonly leverage cosine similarity for comparison.
+- TBD
 
 ## Related People
-- **Gerard Salton** – Pioneered work on vector space models, foundational to cosine similarity in information retrieval.
+- TBD
 
 ## Related Concepts
-- [[Embeddings]] – Represent words or concepts as vectors, often compared using cosine similarity.
-- [[Dense vs Sparse Vectors]] – Different representations used with cosine similarity for evaluating similarity and clustering.
-- [[Semantic Similarity]] – Measures conceptual similarity between word embeddings using metrics like cosine similarity.
+- [Embeddings](../Embedding) – Represent words or concepts as vectors, often compared using cosine similarity.
+- [Dense vs Sparse Vectors](../Dense_Sparse_Vectors) – Different representations used with cosine similarity for evaluating similarity and clustering.
+- [Semantic Similarity](../Semantic_Similarity) – Measures conceptual similarity between word embeddings using metrics like cosine similarity.

@@ -1,7 +1,9 @@
 ---
 title: 't-SNE'
 tags: [Visualization, Machine Learning, Dimensionality Reduction]
+draft: true
 ---
+
 ## Core Idea
 t-SNE is a technique for visualizing high-dimensional data by reducing it to two or three dimensions.
 
@@ -22,6 +24,6 @@ t-SNE (t-distributed stochastic neighbor embedding) is a machine learning algori
 - **Geoffrey Hinton** – Co-developer of t-SNE and influential figure in deep learning.
 
 ## Related Concepts
-- [[Embedding]] – t-SNE often visualizes embeddings to interpret their distribution.
-- [[Dense vs Sparse Vectors]] – t-SNE can represent dense data points in a reduced form.
-- [[Cosine Similarity]] – Used alongside t-SNE to assess similarity within visualized clusters.
+- [Embedding](../Embedding) – t-SNE often visualizes embeddings to interpret their distribution.
+- [Dense vs Sparse Vectors](../Dense_vs_Sparse_Vectors) – t-SNE can represent dense data points in a reduced form.
+- [Cosine Similarity](../Cosine_Similarity) – Used alongside t-SNE to assess similarity within visualized clusters.

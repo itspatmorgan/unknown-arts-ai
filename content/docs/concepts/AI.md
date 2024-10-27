@@ -1,6 +1,7 @@
 ---
 title: 'AI'
 tags: [Artificial Intelligence, Core Concepts]
+draft: false
 ---
 
 ## Core Idea
@@ -15,14 +16,13 @@ AI refers to the development of systems capable of tasks that usually require hu
 - **Recommendation Engines** – Powers content suggestions in streaming services, online stores, and social media platforms.
 
 ## Related Resources
-- **“Artificial Intelligence: A Modern Approach” by Stuart Russell and Peter Norvig** – Foundational book on AI concepts and applications.
-- **OpenAI's “What is AI?”** – Introductory guide to AI’s definition and real-world use.
+- TBD
 
 ## Related People
 - **Alan Turing** – Considered a founding figure of AI with his work on machine intelligence.
 - **John McCarthy** – Credited with coining the term “Artificial Intelligence” in 1956.
 
 ## Related Concepts
-- [[Machine Learning]] – A subset of AI focused on learning from data.
-- [[Deep Learning]] – An advanced subset of machine learning that enables high-level data processing.
-- [[Generative AI]] – A branch of AI focused on creating new content.
+- [Machine Learning](../Machine_Learning) – A subset of AI focused on learning from data.
+- [Deep Learning](../Deep_Learning) – An advanced subset of machine learning that enables high-level data processing.
+- [Generative AI](../Generative_AI) – A branch of AI focused on creating new content.

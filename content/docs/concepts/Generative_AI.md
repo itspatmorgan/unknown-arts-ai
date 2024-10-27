@@ -1,7 +1,9 @@
 ---
 title: 'Generative AI'
 tags: [Generative AI, AI Techniques, Creativity]
+draft: false
 ---
+
 ## Core Idea
 Generative AI refers to systems that create new content, such as text, images, or music, by learning from existing data.
 
@@ -14,13 +16,12 @@ Generative AI models are trained to produce new content by learning patterns in 
 - **Music Composition** – Generates music tracks based on learned musical styles and structures.
 
 ## Related Resources
-- **OpenAI's “Introducing GPT-3”** – Blog post introducing one of the most well-known generative AI models.
-- **“GANs in Action” by Jakub Langr and Vladimir Bok** – Book detailing the inner workings and applications of generative adversarial networks.
+- TBD
 
 ## Related People
-- **Ian Goodfellow** – Inventor of GANs, a type of generative AI model used widely in image creation.
+- TBD
 
 ## Related Concepts
-- [[LLM (Large Language Model)]] – Type of generative AI focused on text.
-- [[Deep Learning]] – Many generative AI models rely on deep learning architectures.
-- [[Sampling]] – Used in generative models to introduce variation in outputs.
+- [LLM (Large Language Model)](../LLM) – Type of generative AI focused on text.
+- [Deep Learning](../Deep_Learning) – Many generative AI models rely on deep learning architectures.
+- [Sampling](../Sampling) – Used in generative models to introduce variation in outputs.
