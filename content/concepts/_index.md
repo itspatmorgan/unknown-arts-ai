@@ -5,7 +5,7 @@ cascade:
 breadcrumbs: false
 ---
 
-## AI Concept Glossary
+## Overview
 
 This glossary is designed to be a quick reference for foundational concepts in AI, with a focus on techniques for working with large language models (LLMs) and prompt engineering. Whether you’re new to AI or looking to deepen your understanding of specific terms, this glossary will help clarify the basics and highlight connections within the field.
 

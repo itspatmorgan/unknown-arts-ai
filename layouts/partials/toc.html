@@ -9,10 +9,10 @@
   {{- if $toc }}
     <div class="hextra-scrollbar hx-sticky hx-top-16 hx-overflow-y-auto hx-pr-4 hx-pt-6 hx-text-sm [hyphens:auto] hx-max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] ltr:hx--mr-4 rtl:hx--ml-4">
       {{- with .Fragments.Headings -}}
-        <div class="hx-mb-4">
+        <!-- <div class="hx-mb-4">
             <p class="hx-mb-4 hx-font-semibold hx-tracking-tight">Page status</p>
             {{ partial "shortcodes/status-badge.html" $ }}
-        </div>
+        </div> -->
         <p class="hx-mb-4 hx-font-semibold hx-tracking-tight">{{ $onThisPage }}</p>
         {{- range . -}}
           <ul>

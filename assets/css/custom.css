@@ -1,0 +1,33 @@
+body {
+    font-family: "Space Grotesk", system-ui, sans-serif;
+}
+
+:root {
+    --primary-hue: 26deg;
+    --primary-saturation: 25%;
+    --primary-lightness: 56%;
+}
+
+/* Blog List Styles */
+div.blog-content ul {
+    list-style-type: disc;
+    padding-left: 2em;
+    margin-bottom: 1em;
+}
+  
+div.blog-content ol {
+    list-style-type: decimal;
+    padding-left: 2em;
+    margin-bottom: 1em;
+}
+
+div.blog-content li {
+    margin-bottom: 0.5em;
+}
+
+div.blog-content li a {
+    color: hsl(var(--primary-hue), 100%, 50%);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: from-font;
+}

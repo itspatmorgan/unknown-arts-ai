@@ -64,7 +64,7 @@ params:
   displayUpdatedDate: true
 
   theme:
-    default: light
+    default: dark
     displayToggle: true
 
   page:
@@ -72,7 +72,7 @@ params:
 
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: true
