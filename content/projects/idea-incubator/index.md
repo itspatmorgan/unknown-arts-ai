@@ -26,7 +26,7 @@ This GPT aims to help users (aka. Patrick) develop and refine ideas for short, i
 
 ## Prompt
 
-{{% include-resource "content/docs/projects/idea-incubator/idea-incubator.md" %}}
+{{% include-resource "content/projects/idea-incubator/idea-incubator.md" %}}
 
 ## Build Process: Chain of Thought
 

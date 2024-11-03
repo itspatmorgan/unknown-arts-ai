@@ -22,26 +22,32 @@ menu:
     - name: Home
       pageRef: /
       weight: 1
+    - name: Projects
+      pageRef: /projects
+      weight: 2
+    - name: Prompting
+      pageRef: /prompting
+      weight: 3
+    - name: Concepts
+      pageRef: /concepts
+      weight: 4
     - name: Library
       pageRef: /docs
-      weight: 2
-    - name: Projects
-      pageRef: /docs/projects
-      weight: 3
+      weight: 5
     - name: Daily Log
       pageRef: /blog
-      weight: 4
+      weight: 6
     - name: Search
-      weight: 5
+      weight: 7
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 8
       url: "https://github.com/itspatmorgan/unknown-arts-ai"
       params:
         icon: github
     - name: Twitter
-      weight: 7
+      weight: 9
       url: "https://twitter.com/itspatmorgan"
       params:
         icon: x-twitter

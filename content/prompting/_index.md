@@ -1,7 +1,7 @@
 ---
-title: 'Prompt Patterns'
-weight: 3
-prev: concepts
+title: 'Prompting'
+cascade:
+  type: docs
 ---
 
 ## Overview

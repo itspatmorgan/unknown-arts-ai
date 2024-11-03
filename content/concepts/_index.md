@@ -1,7 +1,7 @@
 ---
 title: 'Concepts'
-weight: 2
-prev: resource-catalog
+cascade:
+  type: docs
 ---
 
 ## AI Concept Glossary

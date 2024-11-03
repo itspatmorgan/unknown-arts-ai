@@ -23,6 +23,3 @@ Alex Albert discusses prompting tips for Claude.ai, focusing on effective ways t
 3. Give examples
 4. Use the long context window
 5. Let Claude think (using `<thinking>` tags)
-
-## Related
-- [Alex Albert]({{< relref "/docs/people/alex-albert.md" >}})

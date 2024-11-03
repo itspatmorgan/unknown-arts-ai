@@ -46,14 +46,14 @@ I created this diagnostic prompt to help power users and developers better under
 This technical analysis then informs the creation of user-facing documentation and guides.
 
 #### Prompt
-{{% include-resource "content/docs/projects/gpt-user-guides/diagnostic-prompt.md" %}}
+{{% include-resource "content/projects/gpt-user-guides/diagnostic-prompt.md" %}}
 
 #### Example Response
 When tested with Universal Primer GPT, this diagnostic prompt revealed detailed insights about its teaching methodology, interaction style, and specialized capabilities. 
 
 The full response demonstrates how effectively a GPT can articulate its own design principles and usage patterns:
 
-{{% include-resource "content/docs/projects/gpt-user-guides/diagnostic-response.md" %}}
+{{% include-resource "content/projects/gpt-user-guides/diagnostic-response.md" %}}
 
 ### 2. Quick-Start User Guide Prompt
 
@@ -68,12 +68,12 @@ The goals were to:
 
 The prompt intentionally follows a structured format that could be automated across the GPT marketplace.
 #### Prompt
-{{% include-resource "content/docs/projects/gpt-user-guides/user-guide-prompt.md" %}}
+{{% include-resource "content/projects/gpt-user-guides/user-guide-prompt.md" %}}
 
 #### Example Response
 The resulting guide demonstrates how technical understanding can be transformed into clear, actionable guidance for users. Note how it maintains Universal Primer's teaching-focused identity while providing practical interaction tips:
 
-{{% include-resource "content/docs/projects/gpt-user-guides/user-guide-response.md" %}}
+{{% include-resource "content/projects/gpt-user-guides/user-guide-response.md" %}}
 
 ## Benefits
 This experimental approach shows promise for:

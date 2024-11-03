@@ -5,11 +5,12 @@ page:
   width: normal
 ---
 
-{{< cards cols=2 >}}
-  {{< card link="docs/resource-catalog" title="Resource Catalog" icon="library" >}}
-  {{< card link="docs/patterns" title="Patterns" icon="puzzle" >}}
-  {{< card link="docs/projects" title="Projects" icon="code" >}}
-  {{< card link="blog" title="Daily Log" icon="calendar" >}}
+{{< cards cols=3 >}}
+  {{< card link="/projects" title="Projects" icon="code" >}}
+  {{< card link="/prompting" title="Prompting" icon="puzzle" >}}
+  {{< card link="/concepts" title="Concepts" icon="light-bulb" >}}
+  {{< card link="/docs" title="Resource Library" icon="library" >}}
+  {{< card link="/blog" title="Daily Log" icon="calendar" >}}
 {{< /cards >}}
 
 ## 📖 Overview
