@@ -1,5 +1,6 @@
 ---
 title: 'Prompting'
+breadcrumbs: false
 cascade:
   type: docs
 ---

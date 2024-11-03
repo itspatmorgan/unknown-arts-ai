@@ -1,5 +1,6 @@
 ---
 title: 'Projects'
+breadcrumbs: false
 cascade:
   type: docs
 ---

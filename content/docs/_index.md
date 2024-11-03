@@ -1,7 +1,6 @@
 ---
 title: 'Library'
-sidebar:
-  open: true
+breadcrumbs: false
 ---
 
 This growing collection of resources serves as my personal resource library for the Unknown Arts AI project, gathering insights into AI technologies, prompt engineering, and creative applications of generative AI.

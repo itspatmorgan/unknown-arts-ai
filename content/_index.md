@@ -5,43 +5,35 @@ page:
   width: normal
 ---
 
-{{< cards cols=3 >}}
-  {{< card link="/projects" title="Projects" icon="code" >}}
-  {{< card link="/prompting" title="Prompting" icon="puzzle" >}}
-  {{< card link="/concepts" title="Concepts" icon="light-bulb" >}}
-  {{< card link="/docs" title="Resource Library" icon="library" >}}
-  {{< card link="/blog" title="Daily Log" icon="calendar" >}}
-{{< /cards >}}
-
 ## 📖 Overview
 
 Welcome to the companion website for the [Unknown Arts newsletter](https://www.unknownarts.co)! 
 
-This site documents my exploration into the world of Artificial Intelligence, with a focus on learning, experimentation, and sharing insights with the community.
+This site documents my exploration into the world of Artificial Intelligence, with a focus on learning, experimenting, and sharing insights with the community.
 
-I'm actively working on this project, so expect a variety of content, including:
+**This site currently includes:**
 
-- Markdown files summarizing key concepts and findings (now)
-- Links to useful resources (now)
-- My daily blog of learning and experimentation (now)
-- Jupyter Notebooks with tutorials, code examples, and projects (future)
-- Scripts and other Python files for more focused coding exercises (future)
-
-This will evolve over time.
+{{< cards cols=3 >}}
+  {{< card link="/projects" title="Projects" subtitle="AI experiments and applications" icon="code" >}}
+  {{< card link="/prompting" title="Prompting" subtitle="Guides for effective AI interaction" icon="puzzle" >}}
+  {{< card link="/concepts" title="Concepts" subtitle="Key AI terminology explained" icon="light-bulb" >}}
+  {{< card link="/docs" title="Resource Library" subtitle="Curated AI learning resources" icon="library" >}}
+  {{< card link="/blog" title="Daily Log" subtitle="Learning journey updates" icon="calendar" >}}
+{{< /cards >}}
 
 ## 👨‍💻 About Me
 
-Hey, I'm Patrick!
+Hey, I'm [Patrick](https://www.linkedin.com/in/itspatmorgan/)!
 
-I'm the creator of this repo and the writer behind [Unknown Arts](https://www.unknownarts.co) on Substack.
+I'm a creative technologist and the writer behind [Unknown Arts](https://www.unknownarts.co) on Substack.
 
-Through *Unknown Arts*, I help creative professionals embrace the power of cutting-edge tools and timeless wisdom to find their way to creative success and fulfillment.
+With *Unknown Arts*, I explore how creativity flows through new technology and help creative professionals embrace the power of both cutting-edge tools and timeless wisdom.
 
-I’ve spent over a decade designing digital products and pushing the boundaries of innovation for top brands, but my real passion lies in exploring how creative people can harness technology to unlock their best work. Whether you’re an artist, entrepreneur, or technologist, this space is designed to help you tap into the creative power that comes from both technology and timeless craft traditions.
+This project is a way for me to investigate practical uses of AI and share them with the community. I want to elevate our collective understanding of these transformative technologies and support creatives everywhere in our shared quest to create meaningful work that positively impacts the world.
 
-This project is a way for me to explore practical uses of AI and share them with other creative professionals. I want to elevate our collective understanding of these transformative technologies and support creatives in our shared quest to create meaningful work that positively impacts the world.
+I've spent over a decade designing digital products and pushing the boundaries of innovation for top brands, but my real passion lies in helping creative people harness new technology to unlock their best work. Whether you're a tech professional, artist, or entrepreneur, *Unknown Arts* is designed to help you!
 
-Now, let’s get building!
+Now, let's get building!
 
 ## 🔗 Connect
 
@@ -49,7 +41,7 @@ You can find me on [X](https://x.com/itspatmorgan), [LinkedIn](https://www.linke
 
 ## 🤝 Contributing
 
-If you have suggestions, ideas, or improvements, feel free to contact me. I’m eager to learn from the community!
+If you have suggestions, ideas, or improvements, feel free to contact me. I'm eager to learn from the community!
 
 ## 📄 License
 

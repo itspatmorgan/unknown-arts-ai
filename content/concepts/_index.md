@@ -2,6 +2,7 @@
 title: 'Concepts'
 cascade:
   type: docs
+breadcrumbs: false
 ---
 
 ## AI Concept Glossary
