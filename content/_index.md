@@ -37,11 +37,15 @@ Now, let's get building!
 
 ## 🔗 Connect
 
-You can find me on [X](https://x.com/itspatmorgan), [LinkedIn](https://www.linkedin.com/in/itspatmorgan/), and [Threads](https://www.threads.net/@itspatmorgan).
+You can find me on [LinkedIn](https://www.linkedin.com/in/itspatmorgan/), [X](https://x.com/itspatmorgan), and [Threads](https://www.threads.net/@itspatmorgan).
 
 ## 🤝 Contributing
 
-If you have suggestions, ideas, or improvements, feel free to contact me. I'm eager to learn from the community!
+If you have suggestions, ideas, or improvements, feel free to contact me or check out the [GitHub repository](https://github.com/itspatmorgan/unknown-arts-ai). I'm eager to learn from the community!
+
+## 💌 Subscribe to the newsletter
+
+{{< substack >}}
 
 ## 📄 License
 

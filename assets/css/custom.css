@@ -9,25 +9,36 @@ body {
 }
 
 /* Blog List Styles */
-div.blog-content ul {
+.blog-content ul {
     list-style-type: disc;
     padding-left: 2em;
     margin-bottom: 1em;
 }
   
-div.blog-content ol {
+.blog-content ol {
     list-style-type: decimal;
     padding-left: 2em;
     margin-bottom: 1em;
 }
 
-div.blog-content li {
-    margin-bottom: 0.5em;
+.blog-content li {
+    margin: 0.5em 0;
 }
 
-div.blog-content li a {
-    color: hsl(var(--primary-hue), 100%, 50%);
+.blog-content li a {
+    color: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
     text-decoration: underline;
     text-underline-offset: 2px;
     text-decoration-thickness: from-font;
 }
+
+/* First, create a new class with the working link styles */
+.blog-link {
+    color: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
+}
+
+:root[data-theme="dark"] .blog-link {
+    color: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
+}
+
+/* Then update the blog list template */
