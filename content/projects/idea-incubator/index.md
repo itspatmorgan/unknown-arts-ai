@@ -28,6 +28,6 @@ This GPT aims to help users (aka. Patrick) develop and refine ideas for short, i
 
 {{% include-resource "content/projects/idea-incubator/idea-incubator.md" %}}
 
-## Build Process: Chain of Thought
+## Build Process
 
 - First iteration: [ChatGPT Thread Share Link](https://chatgpt.com/share/67154940-bb28-8012-ad8b-af01d312110c)

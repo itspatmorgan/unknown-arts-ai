@@ -23,6 +23,5 @@ Meta-prompting involves crafting a prompt that indirectly influences a model’s
 
 ## Related Concepts
 - [Prompt](../prompt) – Meta-prompts build on standard prompts to enhance response quality.
-- [Chain-of-Thought Prompting](../chain-of-thought_prompting) – Meta-prompts can help structure thought processes in complex tasks.
 - [Few-Shot Learning](../few-shot_learning) – Few-shot techniques sometimes incorporate meta-prompting to guide nuanced responses.
 
