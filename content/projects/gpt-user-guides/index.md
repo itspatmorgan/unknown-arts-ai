@@ -1,5 +1,5 @@
 ---
-title: 'Using Model Introspection to Generate Quick-Start Guides for Marketplace GPTs'
+title: 'Developing GPT User Guides Through Model Introspection'
 displayUpdatedDate: true
 ---
 
