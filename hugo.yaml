@@ -25,13 +25,13 @@ menu:
     - name: Projects
       pageRef: /projects
       weight: 2
-    - name: Prompting
-      pageRef: /prompting
+    - name: Prompt Patterns
+      pageRef: /patterns
       weight: 3
     - name: Concepts
       pageRef: /concepts
       weight: 4
-    - name: Library
+    - name: Resources
       pageRef: /docs
       weight: 5
     - name: Daily Log

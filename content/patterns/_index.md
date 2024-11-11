@@ -1,5 +1,5 @@
 ---
-title: 'Prompting'
+title: 'Prompt Patterns'
 breadcrumbs: false
 cascade:
   type: docs
