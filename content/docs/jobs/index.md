@@ -3,8 +3,10 @@ title: 'Jobs'
 weight: 7
 ---
 
-*Studying the requirements of jobs in this emerging space.*
+*Jobs pages for companies in the AI space*
 
-- [Content Manager at Meta](https://www.metacareers.com/jobs/902233335134239/)
-- [Content Designer at Anthropic](https://boards.greenhouse.io/anthropic/jobs/4118281008)
-- [Applied AI Product Engineer at Anthropic](https://boards.greenhouse.io/anthropic/jobs/4131823008)
+- [OpenAI](https://openai.com/careers/search/)
+- [Anthropic](https://www.anthropic.com/jobs)
+- [Perplexity AI](https://www.perplexity.ai/hub/careers#open-roles)
+- [Meta](https://www.metacareers.com/jobs?roles[0]=Full%20time%20employment&leadership_levels[0]=Individual%20Contributor&teams[0]=Artificial%20Intelligence&teams[1]=Design%20%26%20User%20Experience)
+- [Cohere](https://cohere.com/careers)
