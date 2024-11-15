@@ -27,6 +27,9 @@ The prompt intentionally follows a structured format that could be automated acr
 ## How I Use It
 I intended for this prompt to be a prototype for a tool used in the GPT Store to help automate the creation of user guides for new GPTs.
 
+## Required Knowledge Context
+None. Although this prompt is meant to be used with a custom GPT, it does not require any additional context from the user.
+
 ## Prompt
 {{% include-resource "content/artifacts/gpt-user-guide-generator/user-guide-prompt.md" %}}
 

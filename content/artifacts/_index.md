@@ -16,7 +16,7 @@ Think of this as both a living laboratory and a toolbox.
     link="thought-partner" 
     title="Thought Partner" 
     icon="light-bulb" 
-    tag="Stable"
+    tag="Healthy"
     tagType="info"
     image="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=1000&h=600&fit=crop"
   >}}
@@ -24,7 +24,7 @@ Think of this as both a living laboratory and a toolbox.
     link="gpt-diagnostic" 
     title="GPT Diagnostic" 
     icon="clipboard-check"
-    tag="Stable"
+    tag="Healthy"
     tagType="info"
     image="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1000&h=600&fit=crop"
   >}}
@@ -32,8 +32,16 @@ Think of this as both a living laboratory and a toolbox.
     link="gpt-user-guide-generator" 
     title="GPT User Guide Generator" 
     icon="book-open" 
-    tag="Stable"
+    tag="Healthy"
     tagType="info"
     image="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1000&h=600&fit=crop"
   >}} 
+  {{< card 
+    link="claude-writing-editor" 
+    title="Claude Writing Editor" 
+    icon="pencil" 
+    tag="Healthy"
+    tagType="info"
+    image="https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1000&h=600&fit=crop"
+  >}}
 {{< /cards >}}

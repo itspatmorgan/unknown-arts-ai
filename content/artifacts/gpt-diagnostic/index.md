@@ -21,6 +21,9 @@ This diagnostic helps reveal:
 ## How I Use It
 I use this diagnostic tool to understand how custom GPTs work under the hood. It helps me uncover their interaction patterns and specialized features, which is particularly useful for my analysis and research work. I can then transform these insights into practical guidance for others.
 
+## Required Knowledge Context
+None. Although this prompt is meant to be used with a custom GPT, it does not require any additional context from the user.
+
 ## Prompt
 {{% include-resource "content/artifacts/gpt-diagnostic/diagnostic-prompt.md" %}}
 

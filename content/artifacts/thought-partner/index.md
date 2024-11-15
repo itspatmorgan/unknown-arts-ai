@@ -23,6 +23,9 @@ displayUpdatedDate: true
 
 I use this prompt with ChatGPT to help me explore new ideas for essays. I generally start with a core idea, share it to begin the conversation, and then use the voice mode to ideate naturally out loud. This taps into my creative mind and allows me to explore the idea more improvisationally and authentically without judging or structuring my thoughts prematurely. Then, once I feel we've gone sufficiently deep, I ask it to synthesize the main points and summarize the conversation into an outline using my expressed language that I can use to write the essay.
 
+## Required Knowledge Context
+None. While you could use this prompt with a custom GPT or Claude project that allows for additional knowledge context, it does not require it.
+
 ## Prompt
 
 {{% include-resource "content/artifacts/thought-partner/thought-partner.md" %}}
