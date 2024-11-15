@@ -34,9 +34,11 @@ Now, let's get building!
 - You can find the code right here!
 - If you have suggestions, ideas, or just want to chat, you can email me at itspatmorgan@gmail.com. I love to connect with other builders!
 
-## 💌 Subscribe to the newsletter
+## 💌 Support
 
-- If you get some value from my work, consider subscribing my newsletter at https://www.unknownarts.co
+- If you get some value from my work, here's how you can support:
+  - Subscribe to my newsletter at https://www.unknownarts.co
+  - Share my work with others!
 
 ## 📄 License
 
