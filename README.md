@@ -2,41 +2,41 @@
 
 ## 📖 Overview
 
-Welcome to the companion website for the [Unknown Arts newsletter](https://www.unknownarts.co)! 
+Welcome to the companion knowledge base for the [Unknown Arts newsletter](https://www.unknownarts.co)! 
 
-This site documents my exploration into the world of Artificial Intelligence, with a focus on learning, experimentation, and sharing insights with the community.
+While the newsletter focuses on case studies and broader themes in a narrative format, this repository is my public playground for diving deeper into the technical details.
 
-I'm actively working on this project, so expect a variety of content, including:
+Expect to find technical documentation, artifacts from my AI experiments, and other resources from my personal learning journey.
 
-- Markdown files summarizing key concepts and findings (now)
-- Links to useful resources (now)
-- My daily blog of learning and experimentation (now)
-- Jupyter Notebooks with tutorials, code examples, and projects (future)
-- Scripts and other Python files for more focused coding exercises (future)
+**This site currently includes:**
 
-This will evolve over time.
+- **Artifacts**: Artifacts from my AI experiments and personal learning journey
+- **Prompt Patterns**: Prompt patterns for creative AI interactions
+- **Concepts**: Key AI terminology explained
+- **Resources**: Curated AI learning resources (articles, videos, etc.)
+- **Daily Log**: Daily updates on my personal AI learning journey
 
 ## 👨‍💻 About Me
 
-Hey, I'm Patrick!
+Hello! I'm [Patrick Morgan](https://itspatmorgan.com).
 
-I'm the creator of this repo and the writer behind [Unknown Arts](https://www.unknownarts.co) on Substack.
+I'm a software designer and the writer of [Unknown Arts](https://www.unknownarts.co) on Substack.
 
-Through *Unknown Arts*, I help creative professionals embrace the power of cutting-edge tools and timeless wisdom to find their way to creative success and fulfillment.
+With *Unknown Arts*, I explore AI's creative frontier through weekly experiments and reflections. My mission is to help creative builders shape a more thoughtful tomorrow.
 
-I’ve spent over a decade designing digital products and pushing the boundaries of innovation for top brands, but my real passion lies in exploring how creative people can harness technology to unlock their best work. Whether you’re an artist, entrepreneur, or technologist, this space is designed to help you tap into the creative power that comes from both technology and timeless craft traditions.
+I've spent over a decade designing digital products and pushing the boundaries of innovation for top brands, but my real passion lies in helping creative people harness new technology to unlock new possibilities for their work.
 
-This project is a way for me to explore practical uses of AI and share them with other creative professionals. I want to elevate our collective understanding of these transformative technologies and support creatives in our shared quest to create meaningful work that positively impacts the world.
-
-Now, let’s get building!
+Now, let's get building!
 
 ## 🔗 Connect
 
-You can find me on [X](https://x.com/itspatmorgan), [LinkedIn](https://www.linkedin.com/in/itspatmorgan/), and [Threads](https://www.threads.net/@itspatmorgan).
+- You can find me on [LinkedIn](https://www.linkedin.com/in/itspatmorgan/)
+- You can find the code right here!
+- If you have suggestions, ideas, or just want to chat, you can email me at itspatmorgan@gmail.com. I love to connect with other builders!
 
-## 🤝 Contributing
+## 💌 Subscribe to the newsletter
 
-If you have suggestions, ideas, or improvements, feel free to contact me. I’m eager to learn from the community!
+- If you get some value from my work, consider subscribing my newsletter at https://www.unknownarts.co
 
 ## 📄 License
 
