@@ -1,9 +1,15 @@
 ---
-title: 'Projects'
+title: 'Artifacts'
 breadcrumbs: false
 cascade:
   type: docs
 ---
+
+This section serves as a repository of artifacts from my ongoing AI experiments, featuring prompts, scripts, and resources developed while working with ChatGPT, Claude, and other AI models.
+
+You'll find an evolving collection of tested prompts, code snippets, workflow templates, and generated assets - all documented with context and practical applications.
+
+Think of this as both a living laboratory and a toolbox.
 
 {{< cards >}}
   {{< card 
@@ -23,9 +29,3 @@ cascade:
     image="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1000&h=600&fit=crop"
   >}}
 {{< /cards >}}
-
-This section is dedicated to my ongoing experiments with various AI technologies, including ChatGPT, Claude, and other cutting-edge tools. 
-
-Here, you'll find a collection of carefully crafted prompts, use cases, and insights gained from my explorations.
-
-From ideation tools to content generation assistants to dating counselors, each project represents a step forward in understanding and harnessing the power of AI in practical, real-world applications.

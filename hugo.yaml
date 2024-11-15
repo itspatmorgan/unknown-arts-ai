@@ -22,8 +22,8 @@ menu:
     - name: Home
       pageRef: /
       weight: 1
-    - name: Projects
-      pageRef: /projects
+    - name: Artifacts
+      pageRef: /artifacts
       weight: 2
     - name: Prompt Patterns
       pageRef: /patterns
