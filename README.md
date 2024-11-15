@@ -1,4 +1,4 @@
-# Unknown Arts AI - Companion Website
+# Unknown Arts - AI Knowledge Base
 
 ## 📖 Overview
 

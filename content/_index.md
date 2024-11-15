@@ -7,7 +7,7 @@ page:
 
 ## 📖 Overview
 
-Welcome to the companion website for the [Unknown Arts newsletter](https://www.unknownarts.co)! 
+Welcome to the companion knowledge base for the [Unknown Arts newsletter](https://www.unknownarts.co)! 
 
 While the newsletter focuses on case studies and broader themes in a narrative format, this site is my public playground for diving deeper into the technical details.
 
@@ -27,7 +27,7 @@ Expect to find technical documentation, artifacts from my AI experiments, and ot
 
 Hello! I'm [Patrick Morgan](https://itspatmorgan.com).
 
-I'm a software designer and the writer behind [Unknown Arts](https://www.unknownarts.co) on Substack.
+I'm a software designer and the writer of [Unknown Arts](https://www.unknownarts.co) on Substack.
 
 With *Unknown Arts*, I explore AI's creative frontier through weekly experiments and reflections. My mission is to help creative builders shape a more thoughtful tomorrow.
 
