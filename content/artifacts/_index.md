@@ -21,11 +21,19 @@ Think of this as both a living laboratory and a toolbox.
     image="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=1000&h=600&fit=crop"
   >}}
   {{< card 
-    link="gpt-user-guides" 
-    title="GPT User Guides" 
-    icon="book-open" 
-    tag="In Progress"
-    tagType="warning"
-    image="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1000&h=600&fit=crop"
+    link="gpt-diagnostic" 
+    title="GPT Diagnostic" 
+    icon="clipboard-check"
+    tag="Stable"
+    tagType="info"
+    image="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1000&h=600&fit=crop"
   >}}
+  {{< card 
+    link="gpt-user-guide-generator" 
+    title="GPT User Guide Generator" 
+    icon="book-open" 
+    tag="Stable"
+    tagType="info"
+    image="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1000&h=600&fit=crop"
+  >}} 
 {{< /cards >}}

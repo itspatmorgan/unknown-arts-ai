@@ -3,11 +3,11 @@ title: 'Thought Partner'
 displayUpdatedDate: true
 ---
 
-## Configuration
+## Metadata
 
-| Tool | Model | Knowledge | Actions |
+| Type | Tool | Model | Knowledge |
 | :- | :- | :- | :- |
-| ChatGPT | GPT-4o | None | None |
+| Prompt | ChatGPT | GPT-4o | None |
 
 ## Overview
 

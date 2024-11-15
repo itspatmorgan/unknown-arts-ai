@@ -3,14 +3,14 @@ title: 'GPT Diagnostic'
 displayUpdatedDate: true
 ---
 
-## Configuration
+## Metadata
 
-| Tool | Model | Knowledge | Actions |
+| Type | Tool | Model | Knowledge |
 | :- | :- | :- | :- |
-| ChatGPT | GPT-4o | None | None |
+| Prompt | ChatGPT | GPT-4o | None |
 
 ## Overview
-The GPT Diagnostic prompt helps power users and developers better understand the underlying mechanics of custom GPTs. It does not expose any proprietary information, but instead gets the GPT to introspect on aspects of its own design, sharing what it knows to inform better usage.
+**GPT Diagnostic** helps power users and developers better understand the underlying mechanics of custom GPTs. It does not expose any proprietary information, but instead gets the GPT to introspect on aspects of its own design, sharing what it knows to inform better usage.
 
 ## Key Features
 This diagnostic helps reveal: 
