@@ -1,5 +1,5 @@
 ---
-title: 'Unknown Arts: AI Learning Journey'
+title: 'Unknown Arts: AI Knowledge Base'
 toc: false
 page:
   width: normal

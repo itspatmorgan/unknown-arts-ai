@@ -54,7 +54,7 @@ params:
   displayUpdatedDate: true
 
   theme:
-    default: dark
+    default: light
     displayToggle: true
 
   page:
