@@ -21,6 +21,22 @@ Think of this as both a living laboratory and a toolbox.
     image="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=1000&h=600&fit=crop"
   >}}
   {{< card 
+    link="writing-editor" 
+    title="Writing Editor" 
+    icon="pencil" 
+    tag="Healthy"
+    tagType="info"
+    image="https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1000&h=600&fit=crop"
+  >}}
+  {{< card 
+    link="ai-career-prep" 
+    title="AI Career Prep" 
+    icon="briefcase" 
+    tag="Healthy"
+    tagType="info"
+    image="https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1000&h=600&fit=crop"
+  >}}
+  {{< card 
     link="gpt-diagnostic" 
     title="GPT Diagnostic" 
     icon="clipboard-check"
@@ -36,12 +52,4 @@ Think of this as both a living laboratory and a toolbox.
     tagType="info"
     image="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1000&h=600&fit=crop"
   >}} 
-  {{< card 
-    link="claude-writing-editor" 
-    title="Claude Writing Editor" 
-    icon="pencil" 
-    tag="Healthy"
-    tagType="info"
-    image="https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1000&h=600&fit=crop"
-  >}}
 {{< /cards >}}

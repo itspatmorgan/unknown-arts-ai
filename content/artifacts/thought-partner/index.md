@@ -7,7 +7,7 @@ displayUpdatedDate: true
 
 | Type | Tool | Model | Knowledge |
 | :- | :- | :- | :- |
-| Prompt | ChatGPT | GPT-4o | None |
+| Prompt | ChatGPT | GPT-4o | No |
 
 ## Overview
 
@@ -23,8 +23,11 @@ displayUpdatedDate: true
 
 I use this prompt with ChatGPT to help me explore new ideas for essays. I generally start with a core idea, share it to begin the conversation, and then use the voice mode to ideate naturally out loud. This taps into my creative mind and allows me to explore the idea more improvisationally and authentically without judging or structuring my thoughts prematurely. Then, once I feel we've gone sufficiently deep, I ask it to synthesize the main points and summarize the conversation into an outline using my expressed language that I can use to write the essay.
 
-## Required Knowledge Context
-None. While you could use this prompt with a custom GPT or Claude project that allows for additional knowledge context, it does not require it.
+## Knowledge Context
+
+{{% callout type="info" %}}
+This prompt does not require any additional context from the user. However, you could use it with a custom GPT or Claude project that allows for additional knowledge context.
+{{% /callout %}}
 
 ## Prompt
 

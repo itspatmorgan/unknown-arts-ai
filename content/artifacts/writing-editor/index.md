@@ -1,5 +1,5 @@
 ---
-title: 'Claude Writing Editor'
+title: 'Writing Editor'
 displayUpdatedDate: true
 ---
 
@@ -10,7 +10,7 @@ displayUpdatedDate: true
 | Prompt | Claude | Sonnet 3.5 | Yes |
 
 ## Overview
-**Claude Writing Editor** is a prompt designed to power a Claude Project that supports my writing process for Unknown Arts essays and case studies.
+**Writing Editor** is a prompt designed to power a Claude Project that supports my writing process for Unknown Arts essays and case studies.
 
 ## Key Features
 - Expert editor for tech/creativity newsletter
@@ -26,11 +26,10 @@ displayUpdatedDate: true
 ## How I Use It
 As mentioned, I use this prompt to power a Claude Project that supports my writing process. It acts as a collaborative editor who helps me iteratively improve my work.
 
-## Required Knowledge Context
-This prompt requires some knowledge context:
+## Knowledge Context
 - An understanding of the user's writing style and preferences as specified in the prompt.
 - The user's current draft of the writing task at hand.
 - It also benefits from including writing samples as examples in the context window.
 
 ## Prompt
-{{% include-resource "content/artifacts/claude-writing-editor/writing-editor-prompt.md" %}}
+{{% include-resource "content/artifacts/writing-editor/writing-editor-prompt.md" %}}

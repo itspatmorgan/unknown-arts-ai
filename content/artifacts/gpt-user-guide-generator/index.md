@@ -7,7 +7,7 @@ displayUpdatedDate: true
 
 | Type | Tool | Model | Knowledge |
 | :- | :- | :- | :- |
-| Prompt | ChatGPT | GPT-4o | None |
+| Prompt | ChatGPT | GPT-4o | No |
 
 ## Overview
 **GPT User Guide Generator** builds off of my work on the [GPT Diagnostic](/artifacts/gpt-diagnostic/) tool. It uses model introspection to understand a GPT's core mechanics and capabilities, then uses that understanding to generate a quick-start guide for everyday users.
@@ -27,8 +27,11 @@ The prompt intentionally follows a structured format that could be automated acr
 ## How I Use It
 I intended for this prompt to be a prototype for a tool used in the GPT Store to help automate the creation of user guides for new GPTs.
 
-## Required Knowledge Context
-None. Although this prompt is meant to be used with a custom GPT, it does not require any additional context from the user.
+## Knowledge Context
+
+{{% callout type="info" %}}
+This prompt does not require any additional context from the user. However, it is meant to be used with a custom GPT.
+{{% /callout %}}
 
 ## Prompt
 {{% include-resource "content/artifacts/gpt-user-guide-generator/user-guide-prompt.md" %}}
