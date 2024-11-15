@@ -13,11 +13,11 @@ Think of this as both a living laboratory and a toolbox.
 
 {{< cards >}}
   {{< card 
-    link="idea-incubator" 
-    title="Idea Incubator" 
+    link="thought-partner" 
+    title="Thought Partner" 
     icon="light-bulb" 
-    tag="In Progress"
-    tagType="warning"
+    tag="Stable"
+    tagType="info"
     image="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=1000&h=600&fit=crop"
   >}}
   {{< card 
