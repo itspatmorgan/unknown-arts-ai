@@ -1,9 +1,7 @@
 ---
 title: 'Jobs'
-weight: 7
+weight: 8
 ---
-
-*Jobs pages for companies in the AI space*
 
 - [OpenAI](https://openai.com/careers/search/)
 - [Anthropic](https://www.anthropic.com/jobs)
