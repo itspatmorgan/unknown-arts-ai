@@ -18,7 +18,7 @@ Think of this as both a living laboratory and a toolbox.
     icon="light-bulb" 
     tag="Healthy"
     tagType="info"
-    image="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=1000&h=600&fit=crop"
+    image="../images/thought-partner.jpeg"
   >}}
   {{< card 
     link="writing-editor" 
@@ -26,7 +26,7 @@ Think of this as both a living laboratory and a toolbox.
     icon="pencil" 
     tag="Healthy"
     tagType="info"
-    image="https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1000&h=600&fit=crop"
+    image="/images/writing-editor.jpeg"
   >}}
   {{< card 
     link="ai-career-prep" 
@@ -34,7 +34,7 @@ Think of this as both a living laboratory and a toolbox.
     icon="briefcase" 
     tag="Healthy"
     tagType="info"
-    image="https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1000&h=600&fit=crop"
+    image="/images/career-prep.jpeg"
   >}}
   {{< card 
     link="gpt-diagnostic" 
@@ -42,7 +42,7 @@ Think of this as both a living laboratory and a toolbox.
     icon="clipboard-check"
     tag="Healthy"
     tagType="info"
-    image="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1000&h=600&fit=crop"
+    image="/images/diagnostic.jpeg"
   >}}
   {{< card 
     link="gpt-user-guide-generator" 
@@ -50,6 +50,14 @@ Think of this as both a living laboratory and a toolbox.
     icon="book-open" 
     tag="Healthy"
     tagType="info"
-    image="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=1000&h=600&fit=crop"
-  >}} 
+    image="/images/user-guide.jpeg"
+  >}}
+  {{< card 
+    link="ua-guide-1" 
+    title="Unknown Arts Guide 1" 
+    icon="map" 
+    tag="Healthy"
+    tagType="info"
+    image="/images/ua-guide.jpeg"
+  >}}
 {{< /cards >}}
