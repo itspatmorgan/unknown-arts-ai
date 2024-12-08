@@ -40,6 +40,12 @@ Now, let's get building!
   - Subscribe to my newsletter at https://www.unknownarts.co
   - Share my work with others!
 
+## 🛠️ Built With
+- [Hugo](https://gohugo.io/)
+- [Hextra Theme](https://imfing.github.io/hextra/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Heroicons](https://v1.heroicons.com/)
+
 ## 📄 License
 
 This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the content as long as you provide appropriate attribution.
