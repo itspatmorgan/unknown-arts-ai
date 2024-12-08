@@ -25,7 +25,7 @@ Expect to find technical documentation, artifacts from my AI experiments, and ot
 
 ## 👨‍💻 About Me
 
-Hello! I'm [Patrick Morgan](https://itspatmorgan.com).
+Hello! I'm [Patrick Morgan](https://patrickmorgan.org).
 
 I'm a software designer and the writer of [Unknown Arts](https://www.unknownarts.co) on Substack.
 
@@ -39,7 +39,7 @@ Now, let's get building!
 
 - You can find me on [LinkedIn](https://www.linkedin.com/in/itspatmorgan/)
 - You can find the code for this site on [GitHub](https://github.com/itspatmorgan/unknown-arts-ai)
-- If you have suggestions, ideas, or just want to chat, you can email me at itspatmorgan@gmail.com. I love to connect with other builders!
+- If you have suggestions, ideas, or just want to chat, you can email me at patrick@unknownarts.co. I love to connect with other builders!
 
 ## 💌 Subscribe to the newsletter
 
