@@ -1,5 +1,5 @@
 ---
-title: 'Unknown Arts Guide 1'
+title: 'Learning Guide 1'
 displayUpdatedDate: true
 ---
 

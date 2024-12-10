@@ -53,8 +53,8 @@ Think of this as both a living laboratory and a toolbox.
     image="/images/user-guide.jpeg"
   >}}
   {{< card 
-    link="ua-guide-1" 
-    title="Unknown Arts Guide 1" 
+    link="learning-guide-1" 
+    title="Learning Guide 1" 
     icon="map" 
     tag="Healthy"
     tagType="info"
