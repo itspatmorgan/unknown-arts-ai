@@ -30,7 +30,7 @@ Now, let's get building!
 
 ## 🔗 Connect
 
-- You can find me on [LinkedIn](https://www.linkedin.com/in/itspatmorgan/)
+- You can find me on [X](https://x.com/itspatmorgan) & [LinkedIn](https://www.linkedin.com/in/itspatmorgan/)
 - You can find the code right here!
 - If you have suggestions, ideas, or just want to chat, you can email me at patrick@unknownarts.co. I love to connect with other builders!
 
