@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Unknown Arts AI"
 theme: "hextra"
 buildDrafts: "false"
+canonifyURLs: true
 
 markup:
   # allow raw html
