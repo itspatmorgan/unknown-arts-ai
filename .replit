@@ -7,3 +7,7 @@ channel = "stable-24_05"
 
 [deployment]
 run = ["sh", "-c", "hugo server --bind 0.0.0.0 --buildDrafts --disableFastRender"]
+
+[[ports]]
+localPort = 1313
+externalPort = 80
