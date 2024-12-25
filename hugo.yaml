@@ -1,4 +1,5 @@
 baseURL: "https://ai.unknownarts.co"
+canonifyURLs: true
 languageCode: "en-us"
 title: "Unknown Arts AI"
 theme: "hextra"
