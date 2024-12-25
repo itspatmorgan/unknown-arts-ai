@@ -1,8 +1,9 @@
+
 modules = ["web"]
-run = "hugo server"
+run = "hugo server --bind 0.0.0.0 --baseURL ${REPL_SLUG}.${REPL_OWNER}.repl.co"
 
 [nix]
 channel = "stable-24_05"
 
 [deployment]
-run = ["sh", "-c", "hugo server --buildDrafts --disableFastRender"]
+run = ["sh", "-c", "hugo server --bind 0.0.0.0 --buildDrafts --disableFastRender"]
