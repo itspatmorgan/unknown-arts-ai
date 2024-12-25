@@ -9,7 +9,7 @@ channel = "stable-24_05"
 [deployment]
 build = ["hugo --minify"]
 publicDir = "public"
-run = ["sh", "-c", "hugo server --bind 0.0.0.0 --buildDrafts --disableFastRender"]
+deploymentTarget = "static"
 
 [[ports]]
 localPort = 1313
