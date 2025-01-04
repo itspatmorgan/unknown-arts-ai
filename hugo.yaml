@@ -34,11 +34,8 @@ menu:
     - name: Resources
       pageRef: /docs
       weight: 5
-    - name: Daily Log
-      pageRef: /blog
-      weight: 6
     - name: Search
-      weight: 7
+      weight: 6
       params:
         type: search
   sidebar:
