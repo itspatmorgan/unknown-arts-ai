@@ -13,7 +13,7 @@ Think of this as both a living laboratory and a toolbox.
 
 {{< cards >}}
   {{< card 
-    link="thought-partner" 
+    link="/artifacts/thought-partner" 
     title="Thought Partner" 
     icon="light-bulb" 
     tag="Healthy"
@@ -21,7 +21,7 @@ Think of this as both a living laboratory and a toolbox.
     image="../images/thought-partner.jpeg"
   >}}
   {{< card 
-    link="writing-editor" 
+    link="/artifacts/writing-editor" 
     title="Writing Editor" 
     icon="pencil" 
     tag="Healthy"
@@ -29,7 +29,7 @@ Think of this as both a living laboratory and a toolbox.
     image="/images/writing-editor.jpeg"
   >}}
   {{< card 
-    link="ai-career-prep" 
+    link="/artifacts/ai-career-prep" 
     title="AI Career Prep" 
     icon="briefcase" 
     tag="Healthy"
@@ -37,7 +37,7 @@ Think of this as both a living laboratory and a toolbox.
     image="/images/career-prep.jpeg"
   >}}
   {{< card 
-    link="gpt-diagnostic" 
+    link="/artifacts/gpt-diagnostic" 
     title="GPT Diagnostic" 
     icon="clipboard-check"
     tag="Healthy"
@@ -45,7 +45,7 @@ Think of this as both a living laboratory and a toolbox.
     image="/images/diagnostic.jpeg"
   >}}
   {{< card 
-    link="gpt-user-guide-generator" 
+    link="/artifacts/gpt-user-guide-generator" 
     title="GPT User Guide Generator" 
     icon="book-open" 
     tag="Healthy"
@@ -53,7 +53,7 @@ Think of this as both a living laboratory and a toolbox.
     image="/images/user-guide.jpeg"
   >}}
   {{< card 
-    link="learning-guide-1" 
+    link="/artifacts/learning-guide-1" 
     title="Learning Guide 1" 
     icon="map" 
     tag="Healthy"

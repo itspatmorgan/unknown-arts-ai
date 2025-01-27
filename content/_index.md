@@ -15,7 +15,7 @@ Expect to find technical documentation, artifacts from my AI experiments, and ot
 
 **This site currently includes:**
 
-{{< cards cols=3 >}}
+{{< cards cols=2 >}}
   {{< card link="/artifacts" title="Artifacts" subtitle="Artifacts from my AI experiments" icon="code" >}}
   {{< card link="/patterns" title="Prompt Patterns" subtitle="Prompt patterns for creative AI interactions" icon="puzzle" >}}
   {{< card link="/concepts" title="Concepts" subtitle="Key AI terminology explained" icon="light-bulb" >}}
