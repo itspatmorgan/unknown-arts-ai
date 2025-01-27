@@ -20,7 +20,6 @@ Expect to find technical documentation, artifacts from my AI experiments, and ot
   {{< card link="/patterns" title="Prompt Patterns" subtitle="Prompt patterns for creative AI interactions" icon="puzzle" >}}
   {{< card link="/concepts" title="Concepts" subtitle="Key AI terminology explained" icon="light-bulb" >}}
   {{< card link="/docs" title="Resources" subtitle="Curated AI learning resources (articles, videos, etc.)" icon="library" >}}
-  {{< card link="/blog" title="Daily Log" subtitle="Daily updates on my personal AI learning journey" icon="calendar" >}}
 {{< /cards >}}
 
 ## 👨‍💻 About Me
